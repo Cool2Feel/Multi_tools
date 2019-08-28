@@ -1,0 +1,78 @@
+﻿Log Entry : 
+时间：19:23:13 2019年8月8日 
+
+异常信息：Object reference not set to an instance of an object.
+异常对象：Multi-tools
+调用堆栈：
+at LeafSoft.Units.NetRs232.Save_ConfigCom() in D:\VS_test Code\Com_tools\supernetdebuger\Units\NetRs232.cs:line 272
+   at LeafSoft.MainForm.MainForm_FormClosing(Object sender, FormClosingEventArgs e) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 363
+   at System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at EASkins.Controls.MaterialForm.WndProc(Message& m)
+   at LeafSoft.MainForm.WndProc(Message& m) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 93
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, Int32 wParam, Int32 lParam)
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.Form.Close()
+   at EASkins.Controls.MaterialForm.UpdateButtons(MouseEventArgs e, Boolean up)
+   at EASkins.Controls.MaterialForm.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at EASkins.Controls.MaterialForm.WndProc(Message& m)
+   at LeafSoft.MainForm.WndProc(Message& m) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 93
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at LeafSoft.Program.Main() in D:\VS_test Code\Com_tools\supernetdebuger\Program.cs:line 64
+触发方法：Void Save_ConfigCom()
+------------------------------------
+
+Log Entry : 
+时间：19:23:30 2019年8月8日 
+
+异常信息：Object reference not set to an instance of an object.
+异常对象：Multi-tools
+调用堆栈：
+at LeafSoft.Units.NetRs232.Save_ConfigCom() in D:\VS_test Code\Com_tools\supernetdebuger\Units\NetRs232.cs:line 272
+   at LeafSoft.MainForm.MainForm_FormClosing(Object sender, FormClosingEventArgs e) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 363
+   at System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   at System.Windows.Forms.Form.WmClose(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at EASkins.Controls.MaterialForm.WndProc(Message& m)
+   at LeafSoft.MainForm.WndProc(Message& m) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 93
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, Int32 wParam, Int32 lParam)
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.Form.Close()
+   at EASkins.Controls.MaterialForm.UpdateButtons(MouseEventArgs e, Boolean up)
+   at EASkins.Controls.MaterialForm.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at EASkins.Controls.MaterialForm.WndProc(Message& m)
+   at LeafSoft.MainForm.WndProc(Message& m) in D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:line 93
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at LeafSoft.Program.Main() in D:\VS_test Code\Com_tools\supernetdebuger\Program.cs:line 64
+触发方法：Void Save_ConfigCom()
+------------------------------------
+

@@ -1,0 +1,21 @@
+Log Entry : 
+时间：18:51:35 2019年7月11日 
+
+异常信息：未能找到路径“D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\IniFile\setting.ini”的一部分。
+异常对象：mscorlib
+调用堆栈：
+在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   在 LeafSoft.Lib.IniFiles..ctor(String AFileName) 位置 D:\VS_test Code\Com_tools\supernetdebuger\Lib\IniFiles.cs:行号 29
+   在 LeafSoft.Units.NetRs232..ctor() 位置 D:\VS_test Code\Com_tools\supernetdebuger\Units\NetRs232.cs:行号 22
+   在 LeafSoft.PartPanel.ComPanel.InitializeComponent() 位置 D:\VS_test Code\Com_tools\supernetdebuger\PartPanel\ComPanel.Designer.cs:行号 38
+   在 LeafSoft.MainForm.InitializeComponent() 位置 D:\VS_test Code\Com_tools\supernetdebuger\MainForm.Designer.cs:行号 64
+   在 LeafSoft.MainForm..ctor() 位置 D:\VS_test Code\Com_tools\supernetdebuger\MainForm.cs:行号 34
+   在 LeafSoft.Program.Main() 位置 D:\VS_test Code\Com_tools\supernetdebuger\Program.cs:行号 25
+触发方法：Void WinIOError(Int32, System.String)
+------------------------------------
+

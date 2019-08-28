@@ -1,0 +1,150 @@
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\ResolveAssemblyReference.cache
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.AboutMe.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmBytes.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmCheck.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmCMD.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmPoly.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.yyzq.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Properties.Resources.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.DataSend.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\ResolveAssemblyReference.cache
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.AboutMe.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.frmBytes.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.frmCheck.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.frmCMD.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.frmPoly.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Monitor.SocketMonitor.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.yyzq.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Properties.Resources.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.DataSend.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\GenerateResource.read.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\GenerateResource.write.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source4.0\bin\Release\超级通信调试工具.exe.config
+J:\开源项目\GIT\C#通信调试工具\Source4.0\bin\Release\超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source4.0\bin\Release\超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source4.0\obj\x86\Release\超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource.read.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource.write.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.SocketMonitor.resources
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Release\超级通信调试工具.exe.config
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\超级通信调试工具.exe
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\超级通信调试工具.pdb
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Release\超级通信调试工具.exe
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Release\超级通信调试工具.pdb
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\ResolveAssemblyReference.cache
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.AboutMe.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmBytes.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmCheck.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmCMD.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmPoly.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.SocketMonitor.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.yyzq.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Properties.Resources.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.DataSend.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource.read.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\GenerateResource.write.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmLicense.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.frmPlan.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\LeafSoft.PartPanel.PingPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Release\C#超级通信调试工具.exe.config
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Release\C#超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Release\C#超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\C#超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Release\C#超级通信调试工具.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Multi-tools.exe.config
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Multi-tools.exe
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Multi-tools.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\CSkin.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\EASkins.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Guifreaks.Common.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Guifreaks.NavigationBar.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\Guifreaks.NavigationBar.XmlSerializers.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\log4net.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\CSkin.xml
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.AboutMe.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmBytes.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmCheck.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmCMD.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmLicense.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmPlan.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmPoly.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.MainForm.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.ComMonitor.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.PingPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.SocketMonitor.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Properties.Resources.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.DataSend.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\Multi-tools.exe
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\Multi-tools.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.ColorPopup.resources
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\stdole.dll
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\IpBoxControl.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\WOL.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\IpBoxControl.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmAWOL.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.frmGetMac.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.LeafControl.MACTextBox.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.AdbPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.PartPanel.WOLPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Release\LeafSoft.Units.StringFind.resources
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\AxInterop.CommMonitorX.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Release\PopupTool.dll

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Forms>
+  <FormName Name="1000">
+    <parm>$1000</parm>
+  </FormName>
+  <FormName Name="">
+    <parm>txtCustomIP$192.168.16.51|txtCustomPath$/data/log/debug.log*|txtOS$|txtDeviceName$|cboDevice$-1|cboAllADBCmd$1|txtCustomCmd$devices</parm>
+  </FormName>
+</Forms>

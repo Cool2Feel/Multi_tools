@@ -1,0 +1,227 @@
+D:\Code\C#\C#通信调试工具\Source\bin\Debug\C#通讯调试工具(v3.0测试版).exe
+D:\Code\C#\C#通信调试工具\Source\bin\Debug\C#通讯调试工具(v3.0测试版).pdb
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.AboutMe.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmBytes.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCheck.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCMD.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmPoly.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.ComMonitor.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPClient.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPServer.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPClient.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.TabDataReceive.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.yyzq.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Properties.Resources.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetRs232.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataCounter.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataReceive.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataSend.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPServer.resources
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\C#通讯调试工具(v3.0测试版).exe
+D:\Code\C#\C#通信调试工具\Source\obj\x86\Debug\C#通讯调试工具(v3.0测试版).pdb
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.AboutMe.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmBytes.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCheck.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCMD.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmPoly.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPClientPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPClient.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.TabDataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.yyzq.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPServerPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Properties.Resources.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetRs232.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataReceive.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataSend.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPServer.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.exe.config
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.exe
+H:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.pdb
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.AboutMe.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmBytes.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCheck.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmCMD.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmPoly.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPClientPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPClientPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPClient.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetTCPServer.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPClient.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.TabDataReceive.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.yyzq.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.TCPServerPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.UDPServerPanel.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Properties.Resources.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetRs232.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataReceive.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.DataSend.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.Units.NetUDPServer.resources
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\超级通信调试工具.exe
+H:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.exe.config
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.exe
+J:\开源项目\GIT\C#通信调试工具\Source\bin\Debug\超级通信调试工具.pdb
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.PartPanel.PingPanel.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmLicense.resources
+J:\开源项目\GIT\C#通信调试工具\Source\obj\x86\Debug\LeafSoft.frmPlan.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\Multi-tools.exe.config
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\Multi-tools.exe
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\Multi-tools.pdb
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.csprojResolveAssemblyReference.cache
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.AboutMe.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmAWOL.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmBytes.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmCheck.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmCMD.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmGetMac.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmLicense.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmPlan.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmPoly.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.LeafControl.MACTextBox.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.MainForm.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.AdbPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComMonitor.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.PingPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.WOLPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.ColorPopup.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPClient.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPServer.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPClient.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.StringFind.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.TabDataReceive.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Properties.Resources.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetRs232.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataReceive.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataSend.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPServer.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.AboutMe.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmAWOL.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmBytes.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmCheck.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmCMD.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmGetMac.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.frmPoly.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.MainForm.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.AdbPanel.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.PingPanel.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.WOLPanel.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.ColorPopup.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataReceive.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataSend.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetRs232.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPClient.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPServer.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPClient.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPServer.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.Units.StringFind.en-US.resources
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\LeafSoft.csproj.GenerateResource.Cache
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\Multi-tools.exe
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\Multi-tools.pdb
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\en-US\Multi-tools.resources.dll
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\IpBoxControl.dll
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\log4net.dll
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\stdole.dll
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\bin\Debug\IpBoxControl.pdb
+D:\VS_test Code\Com_tools\kinectsdk\supernetdebuger(xg)\supernetdebuger\obj\x86\Debug\en-US\Multi-tools.resources.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\Multi-tools.exe.config
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\Multi-tools.exe
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\Multi-tools.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\en-US\Multi-tools.resources.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\CSkin.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\IpBoxControl.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\log4net.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\stdole.dll
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\CSkin.xml
+D:\VS_test Code\Com_tools\supernetdebuger\bin\Debug\IpBoxControl.pdb
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.csprojResolveAssemblyReference.cache
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.AboutMe.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmAWOL.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmBytes.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmCheck.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmCMD.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmGetMac.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmLicense.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmPlan.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmPoly.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.LeafControl.MACTextBox.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.MainForm.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.AdbPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComMonitor.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.PingPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.WOLPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.ColorPopup.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPClient.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPServer.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPClient.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.StringFind.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.TabDataReceive.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Properties.Resources.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetRs232.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataReceive.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataSend.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPServer.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.AboutMe.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmAWOL.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmBytes.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmCheck.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmCMD.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmGetMac.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.frmPoly.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.MainForm.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.AdbPanel.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.ComPanel.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.PingPanel.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.SocketMonitor.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.PartPanel.WOLPanel.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.ColorPopup.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataReceive.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.DataSend.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetRs232.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPClient.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetTCPServer.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPClient.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.NetUDPServer.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.Units.StringFind.en-US.resources
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\LeafSoft.csproj.GenerateResource.Cache
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\en-US\Multi-tools.resources.dll
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\Multi-tools.exe
+D:\VS_test Code\Com_tools\supernetdebuger\obj\x86\Debug\Multi-tools.pdb

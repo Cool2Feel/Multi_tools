@@ -1,0 +1,3419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ssprotect>
+	<base_info>
+		<app>Virbox Protector Standalone</app>
+		<version>1.4.2.9353</version>
+	</base_info>
+	<file>
+		<path>F:\test\test\Multi-tools.ssp.exe</path>
+	</file>
+	<option>
+		<mix>1</mix>
+		<zip>1</zip>
+	</option>
+	<plugin>
+		<anti enable="1">
+			<x86 file="anti_x86.spd"></x86>
+			<x64 file="anti_x64.spd"></x64>
+			<option>
+				<anti_hbp type="bool">0</anti_hbp>
+				<anti_mbp type="bool">0</anti_mbp>
+				<enable_crc type="bool">0</enable_crc>
+			</option>
+		</anti>
+		<ds enable="1">
+			<x86 file="ss_res_protect_x86.dll"></x86>
+			<x64 file="ss_res_protect_x64.dll"></x64>
+			<option>
+				<pwd type="password">B2B10A1AD993BA1C1858D8D4C4A76C5E</pwd>
+			</option>
+		</ds>
+	</plugin>
+	<function>
+		<SENSENODESPACE0 type="space" name="LeafSoft">
+			<SENSENODECLASS1 type="class" name="frmAWOL">
+				<SENSENODEFUNC2 type="function" name="void .ctor()">
+					<flags>1</flags>
+				</SENSENODEFUNC2>
+			</SENSENODECLASS1>
+		</SENSENODESPACE0>
+		<SENSENODESPACE3 type="space" name="LeafSoft">
+			<SENSENODECLASS4 type="class" name="frmAWOL">
+				<SENSENODEFUNC5 type="function" name="void button1_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC5>
+			</SENSENODECLASS4>
+		</SENSENODESPACE3>
+		<SENSENODESPACE6 type="space" name="LeafSoft">
+			<SENSENODECLASS7 type="class" name="frmAWOL">
+				<SENSENODEFUNC8 type="function" name="void Dispose(bool)">
+					<flags>1</flags>
+				</SENSENODEFUNC8>
+			</SENSENODECLASS7>
+		</SENSENODESPACE6>
+		<SENSENODESPACE9 type="space" name="LeafSoft">
+			<SENSENODECLASS10 type="class" name="frmAWOL">
+				<SENSENODEFUNC11 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC11>
+			</SENSENODECLASS10>
+		</SENSENODESPACE9>
+		<SENSENODESPACE12 type="space" name="LeafSoft">
+			<SENSENODECLASS13 type="class" name="frmBytes">
+				<SENSENODEFUNC14 type="function" name="void CMS_Main_VisibleChanged(object,EventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC14>
+			</SENSENODECLASS13>
+		</SENSENODESPACE12>
+		<SENSENODESPACE15 type="space" name="LeafSoft">
+			<SENSENODECLASS16 type="class" name="frmBytes">
+				<SENSENODEFUNC17 type="function" name="void MS_Clear_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC17>
+			</SENSENODECLASS16>
+		</SENSENODESPACE15>
+		<SENSENODESPACE18 type="space" name="LeafSoft">
+			<SENSENODECLASS19 type="class" name="frmBytes">
+				<SENSENODEFUNC20 type="function" name="void MS_ToInt_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC20>
+			</SENSENODECLASS19>
+		</SENSENODESPACE18>
+		<SENSENODESPACE21 type="space" name="LeafSoft">
+			<SENSENODECLASS22 type="class" name="frmBytes">
+				<SENSENODEFUNC23 type="function" name="void MS_ToFloat_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC23>
+			</SENSENODECLASS22>
+		</SENSENODESPACE21>
+		<SENSENODESPACE24 type="space" name="LeafSoft">
+			<SENSENODECLASS25 type="class" name="frmBytes">
+				<SENSENODEFUNC26 type="function" name="byte[] StringsToBytes(string[])">
+					<flags>8</flags>
+				</SENSENODEFUNC26>
+			</SENSENODECLASS25>
+		</SENSENODESPACE24>
+		<SENSENODESPACE27 type="space" name="LeafSoft">
+			<SENSENODECLASS28 type="class" name="frmBytes">
+				<SENSENODEFUNC29 type="function" name="void MS_ClearValue_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC29>
+			</SENSENODECLASS28>
+		</SENSENODESPACE27>
+		<SENSENODESPACE30 type="space" name="LeafSoft">
+			<SENSENODECLASS31 type="class" name="frmBytes">
+				<SENSENODEFUNC32 type="function" name="void MS_ShortToBytes_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC32>
+			</SENSENODECLASS31>
+		</SENSENODESPACE30>
+		<SENSENODESPACE33 type="space" name="LeafSoft">
+			<SENSENODECLASS34 type="class" name="frmBytes">
+				<SENSENODEFUNC35 type="function" name="void MS_IntToBytes_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC35>
+			</SENSENODECLASS34>
+		</SENSENODESPACE33>
+		<SENSENODESPACE36 type="space" name="LeafSoft">
+			<SENSENODECLASS37 type="class" name="frmBytes">
+				<SENSENODEFUNC38 type="function" name="void MS_DoubleToBytes_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC38>
+			</SENSENODECLASS37>
+		</SENSENODESPACE36>
+		<SENSENODESPACE39 type="space" name="LeafSoft">
+			<SENSENODECLASS40 type="class" name="frmBytes">
+				<SENSENODEFUNC41 type="function" name="void Dispose(bool)">
+					<flags>1</flags>
+				</SENSENODEFUNC41>
+			</SENSENODECLASS40>
+		</SENSENODESPACE39>
+		<SENSENODESPACE42 type="space" name="LeafSoft">
+			<SENSENODECLASS43 type="class" name="frmBytes">
+				<SENSENODEFUNC44 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC44>
+			</SENSENODECLASS43>
+		</SENSENODESPACE42>
+		<SENSENODESPACE45 type="space" name="LeafSoft">
+			<SENSENODECLASS46 type="class" name="frmCheck">
+				<SENSENODEFUNC47 type="function" name="void MS_KTC_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC47>
+			</SENSENODECLASS46>
+		</SENSENODESPACE45>
+		<SENSENODESPACE48 type="space" name="LeafSoft">
+			<SENSENODECLASS49 type="class" name="frmCheck">
+				<SENSENODEFUNC50 type="function" name="void MS_CRC16_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC50>
+			</SENSENODECLASS49>
+		</SENSENODESPACE48>
+		<SENSENODESPACE51 type="space" name="LeafSoft">
+			<SENSENODECLASS52 type="class" name="frmCheck">
+				<SENSENODEFUNC53 type="function" name="void MS_CRCPolyL_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC53>
+			</SENSENODECLASS52>
+		</SENSENODESPACE51>
+		<SENSENODESPACE54 type="space" name="LeafSoft">
+			<SENSENODECLASS55 type="class" name="frmCheck">
+				<SENSENODEFUNC56 type="function" name="void AppendToContent(byte[])">
+					<flags>8</flags>
+				</SENSENODEFUNC56>
+			</SENSENODECLASS55>
+		</SENSENODESPACE54>
+		<SENSENODESPACE57 type="space" name="LeafSoft">
+			<SENSENODECLASS58 type="class" name="frmCheck">
+				<SENSENODEFUNC59 type="function" name="void CM_Clear_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC59>
+			</SENSENODECLASS58>
+		</SENSENODESPACE57>
+		<SENSENODESPACE60 type="space" name="LeafSoft">
+			<SENSENODECLASS61 type="class" name="frmCheck">
+				<SENSENODEFUNC62 type="function" name="void Dispose(bool)">
+					<flags>1</flags>
+				</SENSENODEFUNC62>
+			</SENSENODECLASS61>
+		</SENSENODESPACE60>
+		<SENSENODESPACE63 type="space" name="LeafSoft">
+			<SENSENODECLASS64 type="class" name="frmCheck">
+				<SENSENODEFUNC65 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC65>
+			</SENSENODECLASS64>
+		</SENSENODESPACE63>
+		<SENSENODESPACE66 type="space" name="LeafSoft">
+			<SENSENODECLASS67 type="class" name="frmCMD">
+				<SENSENODEFUNC68 type="function" name="void SetType(DataEncode)">
+					<flags>1</flags>
+				</SENSENODEFUNC68>
+			</SENSENODECLASS67>
+		</SENSENODESPACE66>
+		<SENSENODESPACE69 type="space" name="LeafSoft">
+			<SENSENODECLASS70 type="class" name="frmCMD">
+				<SENSENODEFUNC71 type="function" name="void CM_Clear_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC71>
+			</SENSENODECLASS70>
+		</SENSENODESPACE69>
+		<SENSENODESPACE72 type="space" name="LeafSoft">
+			<SENSENODECLASS73 type="class" name="frmCMD">
+				<SENSENODEFUNC74 type="function" name="void MS_KTC_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC74>
+			</SENSENODECLASS73>
+		</SENSENODESPACE72>
+		<SENSENODESPACE75 type="space" name="LeafSoft">
+			<SENSENODECLASS76 type="class" name="frmCMD">
+				<SENSENODEFUNC77 type="function" name="void MS_CRCPolyH_Click(object,EventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC77>
+			</SENSENODECLASS76>
+		</SENSENODESPACE75>
+		<SENSENODESPACE78 type="space" name="LeafSoft">
+			<SENSENODECLASS79 type="class" name="frmCMD">
+				<SENSENODEFUNC80 type="function" name="void MS_CRCPolyL_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC80>
+			</SENSENODECLASS79>
+		</SENSENODESPACE78>
+		<SENSENODESPACE81 type="space" name="LeafSoft">
+			<SENSENODECLASS82 type="class" name="frmCMD">
+				<SENSENODEFUNC83 type="function" name="void AppendToContent(byte[])">
+					<flags>8</flags>
+				</SENSENODEFUNC83>
+			</SENSENODECLASS82>
+		</SENSENODESPACE81>
+		<SENSENODESPACE84 type="space" name="LeafSoft">
+			<SENSENODECLASS85 type="class" name="frmCMD">
+				<SENSENODEFUNC86 type="function" name="void Dispose(bool)">
+					<flags>1</flags>
+				</SENSENODEFUNC86>
+			</SENSENODECLASS85>
+		</SENSENODESPACE84>
+		<SENSENODESPACE87 type="space" name="LeafSoft">
+			<SENSENODECLASS88 type="class" name="frmCMD">
+				<SENSENODEFUNC89 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC89>
+			</SENSENODECLASS88>
+		</SENSENODESPACE87>
+		<SENSENODESPACE90 type="space" name="LeafSoft">
+			<SENSENODECLASS91 type="class" name="frmGetMac">
+				<SENSENODEFUNC92 type="function" name="Dictionary`2&lt;string&gt; GetAllIPAndMac()">
+					<flags>8</flags>
+				</SENSENODEFUNC92>
+			</SENSENODECLASS91>
+		</SENSENODESPACE90>
+		<SENSENODESPACE93 type="space" name="LeafSoft">
+			<SENSENODECLASS94 type="class" name="frmGetMac">
+				<SENSENODEFUNC95 type="function" name="string GetIPAddress(string)">
+					<flags>8</flags>
+				</SENSENODEFUNC95>
+			</SENSENODECLASS94>
+		</SENSENODESPACE93>
+		<SENSENODESPACE96 type="space" name="LeafSoft">
+			<SENSENODECLASS97 type="class" name="frmGetMac">
+				<SENSENODEFUNC98 type="function" name="string GetMacAddress(string)">
+					<flags>8</flags>
+				</SENSENODEFUNC98>
+			</SENSENODECLASS97>
+		</SENSENODESPACE96>
+		<SENSENODESPACE99 type="space" name="LeafSoft">
+			<SENSENODECLASS100 type="class" name="frmGetMac">
+				<SENSENODEFUNC101 type="function" name="void btGet_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC101>
+			</SENSENODECLASS100>
+		</SENSENODESPACE99>
+		<SENSENODESPACE102 type="space" name="LeafSoft">
+			<SENSENODECLASS103 type="class" name="frmGetMac">
+				<SENSENODEFUNC104 type="function" name="void btAdd_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC104>
+			</SENSENODECLASS103>
+		</SENSENODESPACE102>
+		<SENSENODESPACE105 type="space" name="LeafSoft">
+			<SENSENODECLASS106 type="class" name="frmGetMac">
+				<SENSENODEFUNC107 type="function" name="void button1_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC107>
+			</SENSENODECLASS106>
+		</SENSENODESPACE105>
+		<SENSENODESPACE108 type="space" name="LeafSoft">
+			<SENSENODECLASS109 type="class" name="frmGetMac">
+				<SENSENODEFUNC110 type="function" name="void button2_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC110>
+			</SENSENODECLASS109>
+		</SENSENODESPACE108>
+		<SENSENODESPACE111 type="space" name="LeafSoft">
+			<SENSENODECLASS112 type="class" name="frmGetMac">
+				<SENSENODEFUNC113 type="function" name="void Dispose(bool)">
+					<flags>8</flags>
+				</SENSENODEFUNC113>
+			</SENSENODECLASS112>
+		</SENSENODESPACE111>
+		<SENSENODESPACE114 type="space" name="LeafSoft">
+			<SENSENODECLASS115 type="class" name="frmGetMac">
+				<SENSENODEFUNC116 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC116>
+			</SENSENODECLASS115>
+		</SENSENODESPACE114>
+		<SENSENODESPACE117 type="space" name="LeafSoft">
+			<SENSENODECLASS118 type="class" name="ExceptionLog">
+				<SENSENODEFUNC119 type="function" name="ExceptionLog getLog()">
+					<flags>8</flags>
+				</SENSENODEFUNC119>
+			</SENSENODECLASS118>
+		</SENSENODESPACE117>
+		<SENSENODESPACE120 type="space" name="LeafSoft">
+			<SENSENODECLASS121 type="class" name="ExceptionLog">
+				<SENSENODEFUNC122 type="function" name="void WriteLogFile(Exception,string)">
+					<flags>8</flags>
+				</SENSENODEFUNC122>
+			</SENSENODECLASS121>
+		</SENSENODESPACE120>
+		<SENSENODESPACE123 type="space" name="LeafSoft">
+			<SENSENODECLASS124 type="class" name="ExceptionLog">
+				<SENSENODEFUNC125 type="function" name="void WriteLogFile(byte[],string)">
+					<flags>8</flags>
+				</SENSENODEFUNC125>
+			</SENSENODECLASS124>
+		</SENSENODESPACE123>
+		<SENSENODESPACE126 type="space" name="LeafSoft">
+			<SENSENODECLASS127 type="class" name="LogHelper">
+				<SENSENODEFUNC128 type="function" name="void SetConfig(string)">
+					<flags>8</flags>
+				</SENSENODEFUNC128>
+			</SENSENODECLASS127>
+		</SENSENODESPACE126>
+		<SENSENODESPACE129 type="space" name="LeafSoft">
+			<SENSENODECLASS130 type="class" name="LogHelper">
+				<SENSENODEFUNC131 type="function" name="void WriteLog(string)">
+					<flags>8</flags>
+				</SENSENODEFUNC131>
+			</SENSENODECLASS130>
+		</SENSENODESPACE129>
+		<SENSENODESPACE132 type="space" name="LeafSoft">
+			<SENSENODECLASS133 type="class" name="LogHelper">
+				<SENSENODEFUNC134 type="function" name="void DebugLog(string)">
+					<flags>8</flags>
+				</SENSENODEFUNC134>
+			</SENSENODECLASS133>
+		</SENSENODESPACE132>
+		<SENSENODESPACE135 type="space" name="LeafSoft">
+			<SENSENODECLASS136 type="class" name="LogHelper">
+				<SENSENODEFUNC137 type="function" name="void WriteLog(string,Exception)">
+					<flags>8</flags>
+				</SENSENODEFUNC137>
+			</SENSENODECLASS136>
+		</SENSENODESPACE135>
+		<SENSENODESPACE138 type="space" name="LeafSoft">
+			<SENSENODECLASS139 type="class" name="LogHelper">
+				<SENSENODEFUNC140 type="function" name="void .cctor()">
+					<flags>1</flags>
+				</SENSENODEFUNC140>
+			</SENSENODECLASS139>
+		</SENSENODESPACE138>
+		<SENSENODESPACE141 type="space" name="LeafSoft">
+			<SENSENODECLASS142 type="class" name="MainForm">
+				<SENSENODEFUNC143 type="function" name="void .ctor()">
+					<flags>1</flags>
+				</SENSENODEFUNC143>
+			</SENSENODECLASS142>
+		</SENSENODESPACE141>
+		<SENSENODESPACE144 type="space" name="LeafSoft">
+			<SENSENODECLASS145 type="class" name="MainForm">
+				<SENSENODEFUNC146 type="function" name="void materialRaisedButton1_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC146>
+			</SENSENODECLASS145>
+		</SENSENODESPACE144>
+		<SENSENODESPACE147 type="space" name="LeafSoft">
+			<SENSENODECLASS148 type="class" name="MainForm">
+				<SENSENODEFUNC149 type="function" name="void materialRaisedButton2_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC149>
+			</SENSENODECLASS148>
+		</SENSENODESPACE147>
+		<SENSENODESPACE150 type="space" name="LeafSoft">
+			<SENSENODECLASS151 type="class" name="MainForm">
+				<SENSENODEFUNC152 type="function" name="void Change_ColorScheme(int)">
+					<flags>8</flags>
+				</SENSENODEFUNC152>
+			</SENSENODECLASS151>
+		</SENSENODESPACE150>
+		<SENSENODESPACE153 type="space" name="LeafSoft">
+			<SENSENODECLASS154 type="class" name="MainForm">
+				<SENSENODEFUNC155 type="function" name="void ClosePop()">
+					<flags>8</flags>
+				</SENSENODEFUNC155>
+			</SENSENODECLASS154>
+		</SENSENODESPACE153>
+		<SENSENODESPACE156 type="space" name="LeafSoft">
+			<SENSENODECLASS157 type="class" name="MainForm">
+				<SENSENODEFUNC158 type="function" name="void naviBar1_Resize(object,EventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC158>
+			</SENSENODECLASS157>
+		</SENSENODESPACE156>
+		<SENSENODESPACE159 type="space" name="LeafSoft">
+			<SENSENODECLASS160 type="class" name="MainForm">
+				<SENSENODEFUNC161 type="function" name="void materialFlatButton_crc_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC161>
+			</SENSENODECLASS160>
+		</SENSENODESPACE159>
+		<SENSENODESPACE162 type="space" name="LeafSoft">
+			<SENSENODECLASS163 type="class" name="MainForm">
+				<SENSENODEFUNC164 type="function" name="void materialFlatButton_num_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC164>
+			</SENSENODECLASS163>
+		</SENSENODESPACE162>
+		<SENSENODESPACE165 type="space" name="LeafSoft">
+			<SENSENODECLASS166 type="class" name="MainForm">
+				<SENSENODEFUNC167 type="function" name="void CreateNewTest(object,string,Icon)">
+					<flags>8</flags>
+				</SENSENODEFUNC167>
+			</SENSENODECLASS166>
+		</SENSENODESPACE165>
+		<SENSENODESPACE168 type="space" name="LeafSoft">
+			<SENSENODECLASS169 type="class" name="MainForm">
+				<SENSENODEFUNC170 type="function" name="void frm_FormClosing(object,FormClosingEventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC170>
+			</SENSENODECLASS169>
+		</SENSENODESPACE168>
+		<SENSENODESPACE171 type="space" name="LeafSoft">
+			<SENSENODECLASS172 type="class" name="MainForm">
+				<SENSENODEFUNC173 type="function" name="void materialFlatButton_tcps_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC173>
+			</SENSENODECLASS172>
+		</SENSENODESPACE171>
+		<SENSENODESPACE174 type="space" name="LeafSoft">
+			<SENSENODECLASS175 type="class" name="MainForm">
+				<SENSENODEFUNC176 type="function" name="void materialFlatButton_tcpc_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC176>
+			</SENSENODECLASS175>
+		</SENSENODESPACE174>
+		<SENSENODESPACE177 type="space" name="LeafSoft">
+			<SENSENODECLASS178 type="class" name="MainForm">
+				<SENSENODEFUNC179 type="function" name="void materialFlatButton_udps_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC179>
+			</SENSENODECLASS178>
+		</SENSENODESPACE177>
+		<SENSENODESPACE180 type="space" name="LeafSoft">
+			<SENSENODECLASS181 type="class" name="MainForm">
+				<SENSENODEFUNC182 type="function" name="void materialFlatButton_udpc_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC182>
+			</SENSENODECLASS181>
+		</SENSENODESPACE180>
+		<SENSENODESPACE183 type="space" name="LeafSoft">
+			<SENSENODECLASS184 type="class" name="MainForm">
+				<SENSENODEFUNC185 type="function" name="void materialFlatButton2_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC185>
+			</SENSENODECLASS184>
+		</SENSENODESPACE183>
+		<SENSENODESPACE186 type="space" name="LeafSoft">
+			<SENSENODECLASS187 type="class" name="MainForm">
+				<SENSENODEFUNC188 type="function" name="void materialFlatButton4_Click(object,EventArgs)">
+					<flags>1</flags>
+				</SENSENODEFUNC188>
+			</SENSENODECLASS187>
+		</SENSENODESPACE186>
+		<SENSENODESPACE189 type="space" name="LeafSoft">
+			<SENSENODECLASS190 type="class" name="MainForm">
+				<SENSENODEFUNC191 type="function" name="void MainForm_Load(object,EventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC191>
+			</SENSENODECLASS190>
+		</SENSENODESPACE189>
+		<SENSENODESPACE192 type="space" name="LeafSoft">
+			<SENSENODECLASS193 type="class" name="MainForm">
+				<SENSENODEFUNC194 type="function" name="void MainForm_FormClosing(object,FormClosingEventArgs)">
+					<flags>8</flags>
+				</SENSENODEFUNC194>
+			</SENSENODECLASS193>
+		</SENSENODESPACE192>
+		<SENSENODESPACE195 type="space" name="LeafSoft">
+			<SENSENODECLASS196 type="class" name="MainForm">
+				<SENSENODEFUNC197 type="function" name="void Dispose(bool)">
+					<flags>1</flags>
+				</SENSENODEFUNC197>
+			</SENSENODECLASS196>
+		</SENSENODESPACE195>
+		<SENSENODESPACE198 type="space" name="LeafSoft">
+			<SENSENODECLASS199 type="class" name="MainForm">
+				<SENSENODEFUNC200 type="function" name="void InitializeComponent()">
+					<flags>8</flags>
+				</SENSENODEFUNC200>
+			</SENSENODECLASS199>
+		</SENSENODESPACE198>
+		<SENSENODESPACE201 type="space" name="LeafSoft">
+			<SENSENODECLASS202 type="class" name="Program">
+				<SENSENODEFUNC203 type="function" name="void Main()">
+					<flags>8</flags>
+				</SENSENODEFUNC203>
+			</SENSENODECLASS202>
+		</SENSENODESPACE201>
+		<SENSENODESPACE204 type="space" name="LeafSoft">
+			<SENSENODESPACE205 type="space" name="Units">
+				<SENSENODECLASS206 type="class" name="ColorPopup">
+					<SENSENODEFUNC207 type="function" name="void .ctor(MainForm)">
+						<flags>1</flags>
+					</SENSENODEFUNC207>
+				</SENSENODECLASS206>
+			</SENSENODESPACE205>
+		</SENSENODESPACE204>
+		<SENSENODESPACE208 type="space" name="LeafSoft">
+			<SENSENODESPACE209 type="space" name="Units">
+				<SENSENODECLASS210 type="class" name="ColorPopup">
+					<SENSENODEFUNC211 type="function" name="void skinButton1_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC211>
+				</SENSENODECLASS210>
+			</SENSENODESPACE209>
+		</SENSENODESPACE208>
+		<SENSENODESPACE212 type="space" name="LeafSoft">
+			<SENSENODESPACE213 type="space" name="Units">
+				<SENSENODECLASS214 type="class" name="ColorPopup">
+					<SENSENODEFUNC215 type="function" name="void skinButton2_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC215>
+				</SENSENODECLASS214>
+			</SENSENODESPACE213>
+		</SENSENODESPACE212>
+		<SENSENODESPACE216 type="space" name="LeafSoft">
+			<SENSENODESPACE217 type="space" name="Units">
+				<SENSENODECLASS218 type="class" name="ColorPopup">
+					<SENSENODEFUNC219 type="function" name="void skinButton3_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC219>
+				</SENSENODECLASS218>
+			</SENSENODESPACE217>
+		</SENSENODESPACE216>
+		<SENSENODESPACE220 type="space" name="LeafSoft">
+			<SENSENODESPACE221 type="space" name="Units">
+				<SENSENODECLASS222 type="class" name="ColorPopup">
+					<SENSENODEFUNC223 type="function" name="void skinButton4_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC223>
+				</SENSENODECLASS222>
+			</SENSENODESPACE221>
+		</SENSENODESPACE220>
+		<SENSENODESPACE224 type="space" name="LeafSoft">
+			<SENSENODESPACE225 type="space" name="Units">
+				<SENSENODECLASS226 type="class" name="ColorPopup">
+					<SENSENODEFUNC227 type="function" name="void materialRadioButton1_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC227>
+				</SENSENODECLASS226>
+			</SENSENODESPACE225>
+		</SENSENODESPACE224>
+		<SENSENODESPACE228 type="space" name="LeafSoft">
+			<SENSENODESPACE229 type="space" name="Units">
+				<SENSENODECLASS230 type="class" name="ColorPopup">
+					<SENSENODEFUNC231 type="function" name="void materialRadioButton2_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC231>
+				</SENSENODECLASS230>
+			</SENSENODESPACE229>
+		</SENSENODESPACE228>
+		<SENSENODESPACE232 type="space" name="LeafSoft">
+			<SENSENODESPACE233 type="space" name="Units">
+				<SENSENODECLASS234 type="class" name="ColorPopup">
+					<SENSENODEFUNC235 type="function" name="void materialRadioButton3_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC235>
+				</SENSENODECLASS234>
+			</SENSENODESPACE233>
+		</SENSENODESPACE232>
+		<SENSENODESPACE236 type="space" name="LeafSoft">
+			<SENSENODESPACE237 type="space" name="Units">
+				<SENSENODECLASS238 type="class" name="ColorPopup">
+					<SENSENODEFUNC239 type="function" name="void materialRadioButton4_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC239>
+				</SENSENODECLASS238>
+			</SENSENODESPACE237>
+		</SENSENODESPACE236>
+		<SENSENODESPACE240 type="space" name="LeafSoft">
+			<SENSENODESPACE241 type="space" name="Units">
+				<SENSENODECLASS242 type="class" name="ColorPopup">
+					<SENSENODEFUNC243 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC243>
+				</SENSENODECLASS242>
+			</SENSENODESPACE241>
+		</SENSENODESPACE240>
+		<SENSENODESPACE244 type="space" name="LeafSoft">
+			<SENSENODESPACE245 type="space" name="Units">
+				<SENSENODECLASS246 type="class" name="ColorPopup">
+					<SENSENODEFUNC247 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC247>
+				</SENSENODECLASS246>
+			</SENSENODESPACE245>
+		</SENSENODESPACE244>
+		<SENSENODESPACE248 type="space" name="LeafSoft">
+			<SENSENODESPACE249 type="space" name="Units">
+				<SENSENODECLASS250 type="class" name="NetTCPServer">
+					<SENSENODEFUNC251 type="function" name="void add_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC251>
+				</SENSENODECLASS250>
+			</SENSENODESPACE249>
+		</SENSENODESPACE248>
+		<SENSENODESPACE252 type="space" name="LeafSoft">
+			<SENSENODESPACE253 type="space" name="Units">
+				<SENSENODECLASS254 type="class" name="NetTCPServer">
+					<SENSENODEFUNC255 type="function" name="void remove_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC255>
+				</SENSENODECLASS254>
+			</SENSENODESPACE253>
+		</SENSENODESPACE252>
+		<SENSENODESPACE256 type="space" name="LeafSoft">
+			<SENSENODESPACE257 type="space" name="Units">
+				<SENSENODECLASS258 type="class" name="NetTCPServer">
+					<SENSENODEFUNC259 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC259>
+				</SENSENODECLASS258>
+			</SENSENODESPACE257>
+		</SENSENODESPACE256>
+		<SENSENODESPACE260 type="space" name="LeafSoft">
+			<SENSENODESPACE261 type="space" name="Units">
+				<SENSENODECLASS262 type="class" name="NetTCPServer">
+					<SENSENODEFUNC263 type="function" name="void BindLstClient()">
+						<flags>8</flags>
+					</SENSENODEFUNC263>
+				</SENSENODECLASS262>
+			</SENSENODESPACE261>
+		</SENSENODESPACE260>
+		<SENSENODESPACE264 type="space" name="LeafSoft">
+			<SENSENODESPACE265 type="space" name="Units">
+				<SENSENODECLASS266 type="class" name="NetTCPServer">
+					<SENSENODEFUNC267 type="function" name="void btnListen_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC267>
+				</SENSENODECLASS266>
+			</SENSENODESPACE265>
+		</SENSENODESPACE264>
+		<SENSENODESPACE268 type="space" name="LeafSoft">
+			<SENSENODESPACE269 type="space" name="Units">
+				<SENSENODECLASS270 type="class" name="NetTCPServer">
+					<SENSENODEFUNC271 type="function" name="void StartTCPServer()">
+						<flags>8</flags>
+					</SENSENODEFUNC271>
+				</SENSENODECLASS270>
+			</SENSENODESPACE269>
+		</SENSENODESPACE268>
+		<SENSENODESPACE272 type="space" name="LeafSoft">
+			<SENSENODESPACE273 type="space" name="Units">
+				<SENSENODECLASS274 type="class" name="NetTCPServer">
+					<SENSENODEFUNC275 type="function" name="void StopTCPServer()">
+						<flags>8</flags>
+					</SENSENODEFUNC275>
+				</SENSENODECLASS274>
+			</SENSENODESPACE273>
+		</SENSENODESPACE272>
+		<SENSENODESPACE276 type="space" name="LeafSoft">
+			<SENSENODESPACE277 type="space" name="Units">
+				<SENSENODECLASS278 type="class" name="NetTCPServer">
+					<SENSENODEFUNC279 type="function" name="void Acceptor(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC279>
+				</SENSENODECLASS278>
+			</SENSENODESPACE277>
+		</SENSENODESPACE276>
+		<SENSENODESPACE280 type="space" name="LeafSoft">
+			<SENSENODESPACE281 type="space" name="Units">
+				<SENSENODECLASS282 type="class" name="NetTCPServer">
+					<SENSENODEFUNC283 type="function" name="bool SendData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC283>
+				</SENSENODECLASS282>
+			</SENSENODESPACE281>
+		</SENSENODESPACE280>
+		<SENSENODESPACE284 type="space" name="LeafSoft">
+			<SENSENODESPACE285 type="space" name="Units">
+				<SENSENODECLASS286 type="class" name="NetTCPServer">
+					<SENSENODEFUNC287 type="function" name="void TCPCallBack(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC287>
+				</SENSENODECLASS286>
+			</SENSENODESPACE285>
+		</SENSENODESPACE284>
+		<SENSENODESPACE288 type="space" name="LeafSoft">
+			<SENSENODESPACE289 type="space" name="Units">
+				<SENSENODECLASS290 type="class" name="NetTCPServer">
+					<SENSENODEFUNC291 type="function" name="void MS_Delete_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC291>
+				</SENSENODECLASS290>
+			</SENSENODESPACE289>
+		</SENSENODESPACE288>
+		<SENSENODESPACE292 type="space" name="LeafSoft">
+			<SENSENODESPACE293 type="space" name="Units">
+				<SENSENODECLASS294 type="class" name="NetTCPServer">
+					<SENSENODEFUNC295 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC295>
+				</SENSENODECLASS294>
+			</SENSENODESPACE293>
+		</SENSENODESPACE292>
+		<SENSENODESPACE296 type="space" name="LeafSoft">
+			<SENSENODESPACE297 type="space" name="Units">
+				<SENSENODECLASS298 type="class" name="NetTCPServer">
+					<SENSENODEFUNC299 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC299>
+				</SENSENODECLASS298>
+			</SENSENODESPACE297>
+		</SENSENODESPACE296>
+		<SENSENODESPACE300 type="space" name="LeafSoft">
+			<SENSENODESPACE301 type="space" name="Units">
+				<SENSENODECLASS302 type="class" name="NetTCPServer">
+					<SENSENODEFUNC303 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC303>
+				</SENSENODECLASS302>
+			</SENSENODESPACE301>
+		</SENSENODESPACE300>
+		<SENSENODESPACE304 type="space" name="LeafSoft">
+			<SENSENODESPACE305 type="space" name="Units">
+				<SENSENODECLASS306 type="class" name="NetUDPClient">
+					<SENSENODEFUNC307 type="function" name="void add_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC307>
+				</SENSENODECLASS306>
+			</SENSENODESPACE305>
+		</SENSENODESPACE304>
+		<SENSENODESPACE308 type="space" name="LeafSoft">
+			<SENSENODESPACE309 type="space" name="Units">
+				<SENSENODECLASS310 type="class" name="NetUDPClient">
+					<SENSENODEFUNC311 type="function" name="void remove_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC311>
+				</SENSENODECLASS310>
+			</SENSENODESPACE309>
+		</SENSENODESPACE308>
+		<SENSENODESPACE312 type="space" name="LeafSoft">
+			<SENSENODESPACE313 type="space" name="Units">
+				<SENSENODECLASS314 type="class" name="NetUDPClient">
+					<SENSENODEFUNC315 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC315>
+				</SENSENODECLASS314>
+			</SENSENODESPACE313>
+		</SENSENODESPACE312>
+		<SENSENODESPACE316 type="space" name="LeafSoft">
+			<SENSENODESPACE317 type="space" name="Units">
+				<SENSENODECLASS318 type="class" name="NetUDPClient">
+					<SENSENODEFUNC319 type="function" name="void BindLstClient()">
+						<flags>8</flags>
+					</SENSENODEFUNC319>
+				</SENSENODECLASS318>
+			</SENSENODESPACE317>
+		</SENSENODESPACE316>
+		<SENSENODESPACE320 type="space" name="LeafSoft">
+			<SENSENODESPACE321 type="space" name="Units">
+				<SENSENODECLASS322 type="class" name="NetUDPClient">
+					<SENSENODEFUNC323 type="function" name="void MS_Delete_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC323>
+				</SENSENODECLASS322>
+			</SENSENODESPACE321>
+		</SENSENODESPACE320>
+		<SENSENODESPACE324 type="space" name="LeafSoft">
+			<SENSENODESPACE325 type="space" name="Units">
+				<SENSENODECLASS326 type="class" name="NetUDPClient">
+					<SENSENODEFUNC327 type="function" name="void btnConn_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC327>
+				</SENSENODECLASS326>
+			</SENSENODESPACE325>
+		</SENSENODESPACE324>
+		<SENSENODESPACE328 type="space" name="LeafSoft">
+			<SENSENODESPACE329 type="space" name="Units">
+				<SENSENODECLASS330 type="class" name="NetUDPClient">
+					<SENSENODEFUNC331 type="function" name="void ReceiveCallback(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC331>
+				</SENSENODECLASS330>
+			</SENSENODESPACE329>
+		</SENSENODESPACE328>
+		<SENSENODESPACE332 type="space" name="LeafSoft">
+			<SENSENODESPACE333 type="space" name="Units">
+				<SENSENODECLASS334 type="class" name="NetUDPClient">
+					<SENSENODEFUNC335 type="function" name="bool SendData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC335>
+				</SENSENODECLASS334>
+			</SENSENODESPACE333>
+		</SENSENODESPACE332>
+		<SENSENODESPACE336 type="space" name="LeafSoft">
+			<SENSENODESPACE337 type="space" name="Units">
+				<SENSENODECLASS338 type="class" name="NetUDPClient">
+					<SENSENODEFUNC339 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC339>
+				</SENSENODECLASS338>
+			</SENSENODESPACE337>
+		</SENSENODESPACE336>
+		<SENSENODESPACE340 type="space" name="LeafSoft">
+			<SENSENODESPACE341 type="space" name="Units">
+				<SENSENODECLASS342 type="class" name="NetUDPClient">
+					<SENSENODEFUNC343 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC343>
+				</SENSENODECLASS342>
+			</SENSENODESPACE341>
+		</SENSENODESPACE340>
+		<SENSENODESPACE344 type="space" name="LeafSoft">
+			<SENSENODESPACE345 type="space" name="Units">
+				<SENSENODECLASS346 type="class" name="NetUDPClient">
+					<SENSENODEFUNC347 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC347>
+				</SENSENODECLASS346>
+			</SENSENODESPACE345>
+		</SENSENODESPACE344>
+		<SENSENODESPACE348 type="space" name="LeafSoft">
+			<SENSENODESPACE349 type="space" name="Units">
+				<SENSENODECLASS350 type="class" name="TabDataReceive">
+					<SENSENODEFUNC351 type="function" name="DataReceive AddNewDataReceive(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC351>
+				</SENSENODECLASS350>
+			</SENSENODESPACE349>
+		</SENSENODESPACE348>
+		<SENSENODESPACE352 type="space" name="LeafSoft">
+			<SENSENODESPACE353 type="space" name="Units">
+				<SENSENODECLASS354 type="class" name="TabDataReceive">
+					<SENSENODEFUNC355 type="function" name="void tpage_Disposed(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC355>
+				</SENSENODECLASS354>
+			</SENSENODESPACE353>
+		</SENSENODESPACE352>
+		<SENSENODESPACE356 type="space" name="LeafSoft">
+			<SENSENODESPACE357 type="space" name="Units">
+				<SENSENODECLASS358 type="class" name="TabDataReceive">
+					<SENSENODEFUNC359 type="function" name="void AddData(string,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC359>
+				</SENSENODECLASS358>
+			</SENSENODESPACE357>
+		</SENSENODESPACE356>
+		<SENSENODESPACE360 type="space" name="LeafSoft">
+			<SENSENODESPACE361 type="space" name="Units">
+				<SENSENODECLASS362 type="class" name="TabDataReceive">
+					<SENSENODEFUNC363 type="function" name="void tabData_DoubleClick(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC363>
+				</SENSENODECLASS362>
+			</SENSENODESPACE361>
+		</SENSENODESPACE360>
+		<SENSENODESPACE364 type="space" name="LeafSoft">
+			<SENSENODESPACE365 type="space" name="Units">
+				<SENSENODECLASS366 type="class" name="TabDataReceive">
+					<SENSENODEFUNC367 type="function" name="void MS_Close_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC367>
+				</SENSENODECLASS366>
+			</SENSENODESPACE365>
+		</SENSENODESPACE364>
+		<SENSENODESPACE368 type="space" name="LeafSoft">
+			<SENSENODESPACE369 type="space" name="Units">
+				<SENSENODECLASS370 type="class" name="TabDataReceive">
+					<SENSENODEFUNC371 type="function" name="void MS_CloseALL_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC371>
+				</SENSENODECLASS370>
+			</SENSENODESPACE369>
+		</SENSENODESPACE368>
+		<SENSENODESPACE372 type="space" name="LeafSoft">
+			<SENSENODESPACE373 type="space" name="Units">
+				<SENSENODECLASS374 type="class" name="TabDataReceive">
+					<SENSENODEFUNC375 type="function" name="void MS_CloseOthers_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC375>
+				</SENSENODECLASS374>
+			</SENSENODESPACE373>
+		</SENSENODESPACE372>
+		<SENSENODESPACE376 type="space" name="LeafSoft">
+			<SENSENODESPACE377 type="space" name="Units">
+				<SENSENODECLASS378 type="class" name="TabDataReceive">
+					<SENSENODEFUNC379 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC379>
+				</SENSENODECLASS378>
+			</SENSENODESPACE377>
+		</SENSENODESPACE376>
+		<SENSENODESPACE380 type="space" name="LeafSoft">
+			<SENSENODESPACE381 type="space" name="Units">
+				<SENSENODECLASS382 type="class" name="TabDataReceive">
+					<SENSENODEFUNC383 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC383>
+				</SENSENODECLASS382>
+			</SENSENODESPACE381>
+		</SENSENODESPACE380>
+		<SENSENODESPACE384 type="space" name="LeafSoft">
+			<SENSENODESPACE385 type="space" name="Units">
+				<SENSENODECLASS386 type="class" name="HexBox">
+					<SENSENODEFUNC387 type="function" name="void OnTextChanged(EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC387>
+				</SENSENODECLASS386>
+			</SENSENODESPACE385>
+		</SENSENODESPACE384>
+		<SENSENODESPACE388 type="space" name="LeafSoft">
+			<SENSENODESPACE389 type="space" name="Units">
+				<SENSENODECLASS390 type="class" name="HexBox">
+					<SENSENODEFUNC391 type="function" name="void OnKeyPress(KeyPressEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC391>
+				</SENSENODECLASS390>
+			</SENSENODESPACE389>
+		</SENSENODESPACE388>
+		<SENSENODESPACE392 type="space" name="LeafSoft">
+			<SENSENODESPACE393 type="space" name="Units">
+				<SENSENODECLASS394 type="class" name="NetRs232">
+					<SENSENODEFUNC395 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC395>
+				</SENSENODECLASS394>
+			</SENSENODESPACE393>
+		</SENSENODESPACE392>
+		<SENSENODESPACE396 type="space" name="LeafSoft">
+			<SENSENODESPACE397 type="space" name="Units">
+				<SENSENODECLASS398 type="class" name="NetRs232">
+					<SENSENODEFUNC399 type="function" name="void Com_DataReceived(object,SerialDataReceivedEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC399>
+				</SENSENODECLASS398>
+			</SENSENODESPACE397>
+		</SENSENODESPACE396>
+		<SENSENODESPACE400 type="space" name="LeafSoft">
+			<SENSENODESPACE401 type="space" name="Units">
+				<SENSENODECLASS402 type="class" name="NetRs232">
+					<SENSENODEFUNC403 type="function" name="void btnCom_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC403>
+				</SENSENODECLASS402>
+			</SENSENODESPACE401>
+		</SENSENODESPACE400>
+		<SENSENODESPACE404 type="space" name="LeafSoft">
+			<SENSENODESPACE405 type="space" name="Units">
+				<SENSENODECLASS406 type="class" name="NetRs232">
+					<SENSENODEFUNC407 type="function" name="void add_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC407>
+				</SENSENODECLASS406>
+			</SENSENODESPACE405>
+		</SENSENODESPACE404>
+		<SENSENODESPACE408 type="space" name="LeafSoft">
+			<SENSENODESPACE409 type="space" name="Units">
+				<SENSENODECLASS410 type="class" name="NetRs232">
+					<SENSENODEFUNC411 type="function" name="void remove_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC411>
+				</SENSENODECLASS410>
+			</SENSENODESPACE409>
+		</SENSENODESPACE408>
+		<SENSENODESPACE412 type="space" name="LeafSoft">
+			<SENSENODESPACE413 type="space" name="Units">
+				<SENSENODECLASS414 type="class" name="NetRs232">
+					<SENSENODEFUNC415 type="function" name="bool SendData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC415>
+				</SENSENODECLASS414>
+			</SENSENODESPACE413>
+		</SENSENODESPACE412>
+		<SENSENODESPACE416 type="space" name="LeafSoft">
+			<SENSENODESPACE417 type="space" name="Units">
+				<SENSENODECLASS418 type="class" name="NetRs232">
+					<SENSENODEFUNC419 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC419>
+				</SENSENODECLASS418>
+			</SENSENODESPACE417>
+		</SENSENODESPACE416>
+		<SENSENODESPACE420 type="space" name="LeafSoft">
+			<SENSENODESPACE421 type="space" name="Units">
+				<SENSENODECLASS422 type="class" name="NetRs232">
+					<SENSENODEFUNC423 type="function" name="void Init_ConfigCom()">
+						<flags>8</flags>
+					</SENSENODEFUNC423>
+				</SENSENODECLASS422>
+			</SENSENODESPACE421>
+		</SENSENODESPACE420>
+		<SENSENODESPACE424 type="space" name="LeafSoft">
+			<SENSENODESPACE425 type="space" name="Units">
+				<SENSENODECLASS426 type="class" name="NetRs232">
+					<SENSENODEFUNC427 type="function" name="void Save_ConfigCom()">
+						<flags>8</flags>
+					</SENSENODEFUNC427>
+				</SENSENODECLASS426>
+			</SENSENODESPACE425>
+		</SENSENODESPACE424>
+		<SENSENODESPACE428 type="space" name="LeafSoft">
+			<SENSENODESPACE429 type="space" name="Units">
+				<SENSENODECLASS430 type="class" name="NetRs232">
+					<SENSENODEFUNC431 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC431>
+				</SENSENODECLASS430>
+			</SENSENODESPACE429>
+		</SENSENODESPACE428>
+		<SENSENODESPACE432 type="space" name="LeafSoft">
+			<SENSENODESPACE433 type="space" name="Units">
+				<SENSENODECLASS434 type="class" name="NetRs232">
+					<SENSENODEFUNC435 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC435>
+				</SENSENODECLASS434>
+			</SENSENODESPACE433>
+		</SENSENODESPACE432>
+		<SENSENODESPACE436 type="space" name="LeafSoft">
+			<SENSENODESPACE437 type="space" name="Units">
+				<SENSENODECLASS438 type="class" name="DataReceive">
+					<SENSENODEFUNC439 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC439>
+				</SENSENODECLASS438>
+			</SENSENODESPACE437>
+		</SENSENODESPACE436>
+		<SENSENODESPACE440 type="space" name="LeafSoft">
+			<SENSENODESPACE441 type="space" name="Units">
+				<SENSENODECLASS442 type="class" name="DataReceive">
+					<SENSENODEFUNC443 type="function" name="void AddData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC443>
+				</SENSENODECLASS442>
+			</SENSENODESPACE441>
+		</SENSENODESPACE440>
+		<SENSENODESPACE444 type="space" name="LeafSoft">
+			<SENSENODESPACE445 type="space" name="Units">
+				<SENSENODECLASS446 type="class" name="DataReceive">
+					<SENSENODEFUNC447 type="function" name="void AddContent(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC447>
+				</SENSENODECLASS446>
+			</SENSENODESPACE445>
+		</SENSENODESPACE444>
+		<SENSENODESPACE448 type="space" name="LeafSoft">
+			<SENSENODESPACE449 type="space" name="Units">
+				<SENSENODECLASS450 type="class" name="DataReceive">
+					<SENSENODEFUNC451 type="function" name="void lblCount_LinkClicked(object,LinkLabelLinkClickedEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC451>
+				</SENSENODECLASS450>
+			</SENSENODESPACE449>
+		</SENSENODESPACE448>
+		<SENSENODESPACE452 type="space" name="LeafSoft">
+			<SENSENODESPACE453 type="space" name="Units">
+				<SENSENODECLASS454 type="class" name="DataReceive">
+					<SENSENODEFUNC455 type="function" name="void rbtnUTF8_CheckedChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC455>
+				</SENSENODECLASS454>
+			</SENSENODESPACE453>
+		</SENSENODESPACE452>
+		<SENSENODESPACE456 type="space" name="LeafSoft">
+			<SENSENODESPACE457 type="space" name="Units">
+				<SENSENODECLASS458 type="class" name="DataReceive">
+					<SENSENODEFUNC459 type="function" name="void rbtnGB2312_CheckedChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC459>
+				</SENSENODECLASS458>
+			</SENSENODESPACE457>
+		</SENSENODESPACE456>
+		<SENSENODESPACE460 type="space" name="LeafSoft">
+			<SENSENODESPACE461 type="space" name="Units">
+				<SENSENODECLASS462 type="class" name="DataReceive">
+					<SENSENODEFUNC463 type="function" name="void rbtnASCII_CheckedChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC463>
+				</SENSENODECLASS462>
+			</SENSENODESPACE461>
+		</SENSENODESPACE460>
+		<SENSENODESPACE464 type="space" name="LeafSoft">
+			<SENSENODESPACE465 type="space" name="Units">
+				<SENSENODECLASS466 type="class" name="DataReceive">
+					<SENSENODEFUNC467 type="function" name="void rbtnHex_CheckedChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC467>
+				</SENSENODECLASS466>
+			</SENSENODESPACE465>
+		</SENSENODESPACE464>
+		<SENSENODESPACE468 type="space" name="LeafSoft">
+			<SENSENODESPACE469 type="space" name="Units">
+				<SENSENODECLASS470 type="class" name="DataReceive">
+					<SENSENODEFUNC471 type="function" name="void MS_Clear_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC471>
+				</SENSENODECLASS470>
+			</SENSENODESPACE469>
+		</SENSENODESPACE468>
+		<SENSENODESPACE472 type="space" name="LeafSoft">
+			<SENSENODESPACE473 type="space" name="Units">
+				<SENSENODECLASS474 type="class" name="DataReceive">
+					<SENSENODEFUNC475 type="function" name="void CMS_Main_VisibleChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC475>
+				</SENSENODECLASS474>
+			</SENSENODESPACE473>
+		</SENSENODESPACE472>
+		<SENSENODESPACE476 type="space" name="LeafSoft">
+			<SENSENODESPACE477 type="space" name="Units">
+				<SENSENODECLASS478 type="class" name="DataReceive">
+					<SENSENODEFUNC479 type="function" name="void MS_ToInt_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC479>
+				</SENSENODECLASS478>
+			</SENSENODESPACE477>
+		</SENSENODESPACE476>
+		<SENSENODESPACE480 type="space" name="LeafSoft">
+			<SENSENODESPACE481 type="space" name="Units">
+				<SENSENODECLASS482 type="class" name="DataReceive">
+					<SENSENODEFUNC483 type="function" name="void MS_ToFloat_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC483>
+				</SENSENODECLASS482>
+			</SENSENODESPACE481>
+		</SENSENODESPACE480>
+		<SENSENODESPACE484 type="space" name="LeafSoft">
+			<SENSENODESPACE485 type="space" name="Units">
+				<SENSENODECLASS486 type="class" name="DataReceive">
+					<SENSENODEFUNC487 type="function" name="void MS_ToDouble_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC487>
+				</SENSENODECLASS486>
+			</SENSENODESPACE485>
+		</SENSENODESPACE484>
+		<SENSENODESPACE488 type="space" name="LeafSoft">
+			<SENSENODESPACE489 type="space" name="Units">
+				<SENSENODECLASS490 type="class" name="DataReceive">
+					<SENSENODEFUNC491 type="function" name="byte[] StringsToBytes(string[])">
+						<flags>8</flags>
+					</SENSENODEFUNC491>
+				</SENSENODECLASS490>
+			</SENSENODESPACE489>
+		</SENSENODESPACE488>
+		<SENSENODESPACE492 type="space" name="LeafSoft">
+			<SENSENODESPACE493 type="space" name="Units">
+				<SENSENODECLASS494 type="class" name="DataReceive">
+					<SENSENODEFUNC495 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC495>
+				</SENSENODECLASS494>
+			</SENSENODESPACE493>
+		</SENSENODESPACE492>
+		<SENSENODESPACE496 type="space" name="LeafSoft">
+			<SENSENODESPACE497 type="space" name="Units">
+				<SENSENODECLASS498 type="class" name="DataReceive">
+					<SENSENODEFUNC499 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC499>
+				</SENSENODECLASS498>
+			</SENSENODESPACE497>
+		</SENSENODESPACE496>
+		<SENSENODESPACE500 type="space" name="LeafSoft">
+			<SENSENODESPACE501 type="space" name="Units">
+				<SENSENODECLASS502 type="class" name="DataSend">
+					<SENSENODEFUNC503 type="function" name="void add_EventDataSend(DataSendHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC503>
+				</SENSENODECLASS502>
+			</SENSENODESPACE501>
+		</SENSENODESPACE500>
+		<SENSENODESPACE504 type="space" name="LeafSoft">
+			<SENSENODESPACE505 type="space" name="Units">
+				<SENSENODECLASS506 type="class" name="DataSend">
+					<SENSENODEFUNC507 type="function" name="void remove_EventDataSend(DataSendHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC507>
+				</SENSENODECLASS506>
+			</SENSENODESPACE505>
+		</SENSENODESPACE504>
+		<SENSENODESPACE508 type="space" name="LeafSoft">
+			<SENSENODESPACE509 type="space" name="Units">
+				<SENSENODECLASS510 type="class" name="DataSend">
+					<SENSENODEFUNC511 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC511>
+				</SENSENODECLASS510>
+			</SENSENODESPACE509>
+		</SENSENODESPACE508>
+		<SENSENODESPACE512 type="space" name="LeafSoft">
+			<SENSENODESPACE513 type="space" name="Units">
+				<SENSENODECLASS514 type="class" name="DataSend">
+					<SENSENODEFUNC515 type="function" name="void dgCMD_CellContentClick(object,DataGridViewCellEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC515>
+				</SENSENODECLASS514>
+			</SENSENODESPACE513>
+		</SENSENODESPACE512>
+		<SENSENODESPACE516 type="space" name="LeafSoft">
+			<SENSENODESPACE517 type="space" name="Units">
+				<SENSENODECLASS518 type="class" name="DataSend">
+					<SENSENODEFUNC519 type="function" name="void dgCMD_RowsAdded(object,DataGridViewRowsAddedEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC519>
+				</SENSENODECLASS518>
+			</SENSENODESPACE517>
+		</SENSENODESPACE516>
+		<SENSENODESPACE520 type="space" name="LeafSoft">
+			<SENSENODESPACE521 type="space" name="Units">
+				<SENSENODECLASS522 type="class" name="DataSend">
+					<SENSENODEFUNC523 type="function" name="void MS_Add_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC523>
+				</SENSENODECLASS522>
+			</SENSENODESPACE521>
+		</SENSENODESPACE520>
+		<SENSENODESPACE524 type="space" name="LeafSoft">
+			<SENSENODESPACE525 type="space" name="Units">
+				<SENSENODECLASS526 type="class" name="DataSend">
+					<SENSENODEFUNC527 type="function" name="void MS_Edit_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC527>
+				</SENSENODECLASS526>
+			</SENSENODESPACE525>
+		</SENSENODESPACE524>
+		<SENSENODESPACE528 type="space" name="LeafSoft">
+			<SENSENODESPACE529 type="space" name="Units">
+				<SENSENODECLASS530 type="class" name="DataSend">
+					<SENSENODEFUNC531 type="function" name="void MS_Delete_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC531>
+				</SENSENODECLASS530>
+			</SENSENODESPACE529>
+		</SENSENODESPACE528>
+		<SENSENODESPACE532 type="space" name="LeafSoft">
+			<SENSENODESPACE533 type="space" name="Units">
+				<SENSENODECLASS534 type="class" name="DataSend">
+					<SENSENODEFUNC535 type="function" name="bool CheckAutoSend()">
+						<flags>8</flags>
+					</SENSENODEFUNC535>
+				</SENSENODECLASS534>
+			</SENSENODESPACE533>
+		</SENSENODESPACE532>
+		<SENSENODESPACE536 type="space" name="LeafSoft">
+			<SENSENODESPACE537 type="space" name="Units">
+				<SENSENODECLASS538 type="class" name="DataSend">
+					<SENSENODEFUNC539 type="function" name="void btnAutoSend_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC539>
+				</SENSENODECLASS538>
+			</SENSENODESPACE537>
+		</SENSENODESPACE536>
+		<SENSENODESPACE540 type="space" name="LeafSoft">
+			<SENSENODESPACE541 type="space" name="Units">
+				<SENSENODECLASS542 type="class" name="DataSend">
+					<SENSENODEFUNC543 type="function" name="void TAutoSend(object)">
+						<flags>8</flags>
+					</SENSENODEFUNC543>
+				</SENSENODECLASS542>
+			</SENSENODESPACE541>
+		</SENSENODESPACE540>
+		<SENSENODESPACE544 type="space" name="LeafSoft">
+			<SENSENODESPACE545 type="space" name="Units">
+				<SENSENODECLASS546 type="class" name="DataSend">
+					<SENSENODEFUNC547 type="function" name="void StopAutoSend()">
+						<flags>8</flags>
+					</SENSENODEFUNC547>
+				</SENSENODECLASS546>
+			</SENSENODESPACE545>
+		</SENSENODESPACE544>
+		<SENSENODESPACE548 type="space" name="LeafSoft">
+			<SENSENODESPACE549 type="space" name="Units">
+				<SENSENODECLASS550 type="class" name="DataSend">
+					<SENSENODEFUNC551 type="function" name="void lblCount_LinkClicked(object,LinkLabelLinkClickedEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC551>
+				</SENSENODECLASS550>
+			</SENSENODESPACE549>
+		</SENSENODESPACE548>
+		<SENSENODESPACE552 type="space" name="LeafSoft">
+			<SENSENODESPACE553 type="space" name="Units">
+				<SENSENODECLASS554 type="class" name="DataSend">
+					<SENSENODEFUNC555 type="function" name="string SetType(DataEncode)">
+						<flags>8</flags>
+					</SENSENODEFUNC555>
+				</SENSENODECLASS554>
+			</SENSENODESPACE553>
+		</SENSENODESPACE552>
+		<SENSENODESPACE556 type="space" name="LeafSoft">
+			<SENSENODESPACE557 type="space" name="Units">
+				<SENSENODECLASS558 type="class" name="DataSend">
+					<SENSENODEFUNC559 type="function" name="DataEncode GetType(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC559>
+				</SENSENODECLASS558>
+			</SENSENODESPACE557>
+		</SENSENODESPACE556>
+		<SENSENODESPACE560 type="space" name="LeafSoft">
+			<SENSENODESPACE561 type="space" name="Units">
+				<SENSENODECLASS562 type="class" name="DataSend">
+					<SENSENODEFUNC563 type="function" name="void Load_Inifile(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC563>
+				</SENSENODECLASS562>
+			</SENSENODESPACE561>
+		</SENSENODESPACE560>
+		<SENSENODESPACE564 type="space" name="LeafSoft">
+			<SENSENODESPACE565 type="space" name="Units">
+				<SENSENODECLASS566 type="class" name="DataSend">
+					<SENSENODEFUNC567 type="function" name="void Save_Inifile(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC567>
+				</SENSENODECLASS566>
+			</SENSENODESPACE565>
+		</SENSENODESPACE564>
+		<SENSENODESPACE568 type="space" name="LeafSoft">
+			<SENSENODESPACE569 type="space" name="Units">
+				<SENSENODECLASS570 type="class" name="DataSend">
+					<SENSENODEFUNC571 type="function" name="void DataSend_Load(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC571>
+				</SENSENODECLASS570>
+			</SENSENODESPACE569>
+		</SENSENODESPACE568>
+		<SENSENODESPACE572 type="space" name="LeafSoft">
+			<SENSENODESPACE573 type="space" name="Units">
+				<SENSENODECLASS574 type="class" name="DataSend">
+					<SENSENODEFUNC575 type="function" name="void CMD_Saved_default()">
+						<flags>8</flags>
+					</SENSENODEFUNC575>
+				</SENSENODECLASS574>
+			</SENSENODESPACE573>
+		</SENSENODESPACE572>
+		<SENSENODESPACE576 type="space" name="LeafSoft">
+			<SENSENODESPACE577 type="space" name="Units">
+				<SENSENODECLASS578 type="class" name="DataSend">
+					<SENSENODEFUNC579 type="function" name="void MS_Input_Click(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC579>
+				</SENSENODECLASS578>
+			</SENSENODESPACE577>
+		</SENSENODESPACE576>
+		<SENSENODESPACE580 type="space" name="LeafSoft">
+			<SENSENODESPACE581 type="space" name="Units">
+				<SENSENODECLASS582 type="class" name="DataSend">
+					<SENSENODEFUNC583 type="function" name="void MS_SaveAs_Click(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC583>
+				</SENSENODECLASS582>
+			</SENSENODESPACE581>
+		</SENSENODESPACE580>
+		<SENSENODESPACE584 type="space" name="LeafSoft">
+			<SENSENODESPACE585 type="space" name="Units">
+				<SENSENODECLASS586 type="class" name="DataSend">
+					<SENSENODEFUNC587 type="function" name="void contextMenuStrip1_Opening(object,CancelEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC587>
+				</SENSENODECLASS586>
+			</SENSENODESPACE585>
+		</SENSENODESPACE584>
+		<SENSENODESPACE588 type="space" name="LeafSoft">
+			<SENSENODESPACE589 type="space" name="Units">
+				<SENSENODECLASS590 type="class" name="DataSend">
+					<SENSENODEFUNC591 type="function" name="void dgCMD_CellToolTipTextNeeded(object,DataGridViewCellToolTipTextNeededEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC591>
+				</SENSENODECLASS590>
+			</SENSENODESPACE589>
+		</SENSENODESPACE588>
+		<SENSENODESPACE592 type="space" name="LeafSoft">
+			<SENSENODESPACE593 type="space" name="Units">
+				<SENSENODECLASS594 type="class" name="DataSend">
+					<SENSENODEFUNC595 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC595>
+				</SENSENODECLASS594>
+			</SENSENODESPACE593>
+		</SENSENODESPACE592>
+		<SENSENODESPACE596 type="space" name="LeafSoft">
+			<SENSENODESPACE597 type="space" name="Units">
+				<SENSENODECLASS598 type="class" name="DataSend">
+					<SENSENODEFUNC599 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC599>
+				</SENSENODECLASS598>
+			</SENSENODESPACE597>
+		</SENSENODESPACE596>
+		<SENSENODESPACE600 type="space" name="LeafSoft">
+			<SENSENODESPACE601 type="space" name="Units">
+				<SENSENODECLASS602 type="class" name="NetTCPClient">
+					<SENSENODEFUNC603 type="function" name="void add_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC603>
+				</SENSENODECLASS602>
+			</SENSENODESPACE601>
+		</SENSENODESPACE600>
+		<SENSENODESPACE604 type="space" name="LeafSoft">
+			<SENSENODESPACE605 type="space" name="Units">
+				<SENSENODECLASS606 type="class" name="NetTCPClient">
+					<SENSENODEFUNC607 type="function" name="void remove_DataReceived(DataReceivedHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC607>
+				</SENSENODECLASS606>
+			</SENSENODESPACE605>
+		</SENSENODESPACE604>
+		<SENSENODESPACE608 type="space" name="LeafSoft">
+			<SENSENODESPACE609 type="space" name="Units">
+				<SENSENODECLASS610 type="class" name="NetTCPClient">
+					<SENSENODEFUNC611 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC611>
+				</SENSENODECLASS610>
+			</SENSENODESPACE609>
+		</SENSENODESPACE608>
+		<SENSENODESPACE612 type="space" name="LeafSoft">
+			<SENSENODESPACE613 type="space" name="Units">
+				<SENSENODECLASS614 type="class" name="NetTCPClient">
+					<SENSENODEFUNC615 type="function" name="void BindLstClient()">
+						<flags>8</flags>
+					</SENSENODEFUNC615>
+				</SENSENODECLASS614>
+			</SENSENODESPACE613>
+		</SENSENODESPACE612>
+		<SENSENODESPACE616 type="space" name="LeafSoft">
+			<SENSENODESPACE617 type="space" name="Units">
+				<SENSENODECLASS618 type="class" name="NetTCPClient">
+					<SENSENODEFUNC619 type="function" name="void btnConn_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC619>
+				</SENSENODECLASS618>
+			</SENSENODESPACE617>
+		</SENSENODESPACE616>
+		<SENSENODESPACE620 type="space" name="LeafSoft">
+			<SENSENODESPACE621 type="space" name="Units">
+				<SENSENODECLASS622 type="class" name="NetTCPClient">
+					<SENSENODEFUNC623 type="function" name="void TCPCallBack(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC623>
+				</SENSENODECLASS622>
+			</SENSENODESPACE621>
+		</SENSENODESPACE620>
+		<SENSENODESPACE624 type="space" name="LeafSoft">
+			<SENSENODESPACE625 type="space" name="Units">
+				<SENSENODECLASS626 type="class" name="NetTCPClient">
+					<SENSENODEFUNC627 type="function" name="bool SendData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC627>
+				</SENSENODECLASS626>
+			</SENSENODESPACE625>
+		</SENSENODESPACE624>
+		<SENSENODESPACE628 type="space" name="LeafSoft">
+			<SENSENODESPACE629 type="space" name="Units">
+				<SENSENODECLASS630 type="class" name="NetTCPClient">
+					<SENSENODEFUNC631 type="function" name="void MS_Delete_Click(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC631>
+				</SENSENODECLASS630>
+			</SENSENODESPACE629>
+		</SENSENODESPACE628>
+		<SENSENODESPACE632 type="space" name="LeafSoft">
+			<SENSENODESPACE633 type="space" name="Units">
+				<SENSENODECLASS634 type="class" name="NetTCPClient">
+					<SENSENODEFUNC635 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC635>
+				</SENSENODECLASS634>
+			</SENSENODESPACE633>
+		</SENSENODESPACE632>
+		<SENSENODESPACE636 type="space" name="LeafSoft">
+			<SENSENODESPACE637 type="space" name="Units">
+				<SENSENODECLASS638 type="class" name="NetTCPClient">
+					<SENSENODEFUNC639 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC639>
+				</SENSENODECLASS638>
+			</SENSENODESPACE637>
+		</SENSENODESPACE636>
+		<SENSENODESPACE640 type="space" name="LeafSoft">
+			<SENSENODESPACE641 type="space" name="Units">
+				<SENSENODECLASS642 type="class" name="NetTCPClient">
+					<SENSENODEFUNC643 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC643>
+				</SENSENODECLASS642>
+			</SENSENODESPACE641>
+		</SENSENODESPACE640>
+		<SENSENODESPACE644 type="space" name="LeafSoft">
+			<SENSENODESPACE645 type="space" name="Units">
+				<SENSENODECLASS646 type="class" name="NetUDPServer">
+					<SENSENODEFUNC647 type="function" name="void remove_DataReceived(DataReceivedHandler)">
+						<flags>1</flags>
+					</SENSENODEFUNC647>
+				</SENSENODECLASS646>
+			</SENSENODESPACE645>
+		</SENSENODESPACE644>
+		<SENSENODESPACE648 type="space" name="LeafSoft">
+			<SENSENODESPACE649 type="space" name="Units">
+				<SENSENODECLASS650 type="class" name="NetUDPServer">
+					<SENSENODEFUNC651 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC651>
+				</SENSENODECLASS650>
+			</SENSENODESPACE649>
+		</SENSENODESPACE648>
+		<SENSENODESPACE652 type="space" name="LeafSoft">
+			<SENSENODESPACE653 type="space" name="Units">
+				<SENSENODECLASS654 type="class" name="NetUDPServer">
+					<SENSENODEFUNC655 type="function" name="void BindLstClient()">
+						<flags>8</flags>
+					</SENSENODEFUNC655>
+				</SENSENODECLASS654>
+			</SENSENODESPACE653>
+		</SENSENODESPACE652>
+		<SENSENODESPACE656 type="space" name="LeafSoft">
+			<SENSENODESPACE657 type="space" name="Units">
+				<SENSENODECLASS658 type="class" name="NetUDPServer">
+					<SENSENODEFUNC659 type="function" name="void btnListen_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC659>
+				</SENSENODECLASS658>
+			</SENSENODESPACE657>
+		</SENSENODESPACE656>
+		<SENSENODESPACE660 type="space" name="LeafSoft">
+			<SENSENODESPACE661 type="space" name="Units">
+				<SENSENODECLASS662 type="class" name="NetUDPServer">
+					<SENSENODEFUNC663 type="function" name="void StartUDPServer()">
+						<flags>8</flags>
+					</SENSENODEFUNC663>
+				</SENSENODECLASS662>
+			</SENSENODESPACE661>
+		</SENSENODESPACE660>
+		<SENSENODESPACE664 type="space" name="LeafSoft">
+			<SENSENODESPACE665 type="space" name="Units">
+				<SENSENODECLASS666 type="class" name="NetUDPServer">
+					<SENSENODEFUNC667 type="function" name="void StopUDPServer()">
+						<flags>8</flags>
+					</SENSENODEFUNC667>
+				</SENSENODECLASS666>
+			</SENSENODESPACE665>
+		</SENSENODESPACE664>
+		<SENSENODESPACE668 type="space" name="LeafSoft">
+			<SENSENODESPACE669 type="space" name="Units">
+				<SENSENODECLASS670 type="class" name="NetUDPServer">
+					<SENSENODEFUNC671 type="function" name="bool SendData(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC671>
+				</SENSENODECLASS670>
+			</SENSENODESPACE669>
+		</SENSENODESPACE668>
+		<SENSENODESPACE672 type="space" name="LeafSoft">
+			<SENSENODESPACE673 type="space" name="Units">
+				<SENSENODECLASS674 type="class" name="NetUDPServer">
+					<SENSENODEFUNC675 type="function" name="void MS_Delete_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC675>
+				</SENSENODECLASS674>
+			</SENSENODESPACE673>
+		</SENSENODESPACE672>
+		<SENSENODESPACE676 type="space" name="LeafSoft">
+			<SENSENODESPACE677 type="space" name="Units">
+				<SENSENODECLASS678 type="class" name="NetUDPServer">
+					<SENSENODEFUNC679 type="function" name="void ReceiveCallback(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC679>
+				</SENSENODECLASS678>
+			</SENSENODESPACE677>
+		</SENSENODESPACE676>
+		<SENSENODESPACE680 type="space" name="LeafSoft">
+			<SENSENODESPACE681 type="space" name="Units">
+				<SENSENODECLASS682 type="class" name="NetUDPServer">
+					<SENSENODEFUNC683 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC683>
+				</SENSENODECLASS682>
+			</SENSENODESPACE681>
+		</SENSENODESPACE680>
+		<SENSENODESPACE684 type="space" name="LeafSoft">
+			<SENSENODESPACE685 type="space" name="Units">
+				<SENSENODECLASS686 type="class" name="NetUDPServer">
+					<SENSENODEFUNC687 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC687>
+				</SENSENODECLASS686>
+			</SENSENODESPACE685>
+		</SENSENODESPACE684>
+		<SENSENODESPACE688 type="space" name="LeafSoft">
+			<SENSENODESPACE689 type="space" name="Units">
+				<SENSENODECLASS690 type="class" name="NetUDPServer">
+					<SENSENODEFUNC691 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC691>
+				</SENSENODECLASS690>
+			</SENSENODESPACE689>
+		</SENSENODESPACE688>
+		<SENSENODESPACE692 type="space" name="LeafSoft">
+			<SENSENODESPACE693 type="space" name="Properties">
+				<SENSENODECLASS694 type="class" name="Resources">
+					<SENSENODEFUNC695 type="function" name="ResourceManager get_ResourceManager()">
+						<flags>8</flags>
+					</SENSENODEFUNC695>
+				</SENSENODECLASS694>
+			</SENSENODESPACE693>
+		</SENSENODESPACE692>
+		<SENSENODESPACE696 type="space" name="LeafSoft">
+			<SENSENODESPACE697 type="space" name="Properties">
+				<SENSENODECLASS698 type="class" name="Settings">
+					<SENSENODEFUNC699 type="function" name="Settings get_Default()">
+						<flags>8</flags>
+					</SENSENODEFUNC699>
+				</SENSENODECLASS698>
+			</SENSENODESPACE697>
+		</SENSENODESPACE696>
+		<SENSENODESPACE700 type="space" name="LeafSoft">
+			<SENSENODESPACE701 type="space" name="PartPanel">
+				<SENSENODECLASS702 type="class" name="AdbPanel">
+					<SENSENODEFUNC703 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC703>
+				</SENSENODECLASS702>
+			</SENSENODESPACE701>
+		</SENSENODESPACE700>
+		<SENSENODESPACE704 type="space" name="LeafSoft">
+			<SENSENODESPACE705 type="space" name="PartPanel">
+				<SENSENODECLASS706 type="class" name="AdbPanel">
+					<SENSENODEFUNC707 type="function" name="void AdbPanel_Load(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC707>
+				</SENSENODECLASS706>
+			</SENSENODESPACE705>
+		</SENSENODESPACE704>
+		<SENSENODESPACE708 type="space" name="LeafSoft">
+			<SENSENODESPACE709 type="space" name="PartPanel">
+				<SENSENODECLASS710 type="class" name="AdbPanel">
+					<SENSENODEFUNC711 type="function" name="void cmdHelp_EventReceiveData(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC711>
+				</SENSENODECLASS710>
+			</SENSENODESPACE709>
+		</SENSENODESPACE708>
+		<SENSENODESPACE712 type="space" name="LeafSoft">
+			<SENSENODESPACE713 type="space" name="PartPanel">
+				<SENSENODECLASS714 type="class" name="AdbPanel">
+					<SENSENODEFUNC715 type="function" name="void CmdHelp_EventReceiveThreadErrorData(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC715>
+				</SENSENODECLASS714>
+			</SENSENODESPACE713>
+		</SENSENODESPACE712>
+		<SENSENODESPACE716 type="space" name="LeafSoft">
+			<SENSENODESPACE717 type="space" name="PartPanel">
+				<SENSENODECLASS718 type="class" name="AdbPanel">
+					<SENSENODEFUNC719 type="function" name="void CmdHelp_EventReceiveThreadData(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC719>
+				</SENSENODECLASS718>
+			</SENSENODESPACE717>
+		</SENSENODESPACE716>
+		<SENSENODESPACE720 type="space" name="LeafSoft">
+			<SENSENODESPACE721 type="space" name="PartPanel">
+				<SENSENODECLASS722 type="class" name="AdbPanel">
+					<SENSENODEFUNC723 type="function" name="void setListData(object)">
+						<flags>8</flags>
+					</SENSENODEFUNC723>
+				</SENSENODECLASS722>
+			</SENSENODESPACE721>
+		</SENSENODESPACE720>
+		<SENSENODESPACE724 type="space" name="LeafSoft">
+			<SENSENODESPACE725 type="space" name="PartPanel">
+				<SENSENODECLASS726 type="class" name="AdbPanel">
+					<SENSENODEFUNC727 type="function" name="void LoadAllADBCmd()">
+						<flags>8</flags>
+					</SENSENODEFUNC727>
+				</SENSENODECLASS726>
+			</SENSENODESPACE725>
+		</SENSENODESPACE724>
+		<SENSENODESPACE728 type="space" name="LeafSoft">
+			<SENSENODESPACE729 type="space" name="PartPanel">
+				<SENSENODECLASS730 type="class" name="AdbPanel">
+					<SENSENODEFUNC731 type="function" name="void cboAllADBCmd_SelectedIndexChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC731>
+				</SENSENODECLASS730>
+			</SENSENODESPACE729>
+		</SENSENODESPACE728>
+		<SENSENODESPACE732 type="space" name="LeafSoft">
+			<SENSENODESPACE733 type="space" name="PartPanel">
+				<SENSENODECLASS734 type="class" name="AdbPanel">
+					<SENSENODEFUNC735 type="function" name="void btnStartADB_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC735>
+				</SENSENODECLASS734>
+			</SENSENODESPACE733>
+		</SENSENODESPACE732>
+		<SENSENODESPACE736 type="space" name="LeafSoft">
+			<SENSENODESPACE737 type="space" name="PartPanel">
+				<SENSENODECLASS738 type="class" name="AdbPanel">
+					<SENSENODEFUNC739 type="function" name="void btnStopADB_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC739>
+				</SENSENODECLASS738>
+			</SENSENODESPACE737>
+		</SENSENODESPACE736>
+		<SENSENODESPACE740 type="space" name="LeafSoft">
+			<SENSENODESPACE741 type="space" name="PartPanel">
+				<SENSENODECLASS742 type="class" name="AdbPanel">
+					<SENSENODEFUNC743 type="function" name="void btnADBVersion_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC743>
+				</SENSENODECLASS742>
+			</SENSENODESPACE741>
+		</SENSENODESPACE740>
+		<SENSENODESPACE744 type="space" name="LeafSoft">
+			<SENSENODESPACE745 type="space" name="PartPanel">
+				<SENSENODECLASS746 type="class" name="AdbPanel">
+					<SENSENODEFUNC747 type="function" name="void btnGetDevice_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC747>
+				</SENSENODECLASS746>
+			</SENSENODESPACE745>
+		</SENSENODESPACE744>
+		<SENSENODESPACE748 type="space" name="LeafSoft">
+			<SENSENODESPACE749 type="space" name="PartPanel">
+				<SENSENODECLASS750 type="class" name="AdbPanel">
+					<SENSENODEFUNC751 type="function" name="void cboDevice_SelectedIndexChanged(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC751>
+				</SENSENODECLASS750>
+			</SENSENODESPACE749>
+		</SENSENODESPACE748>
+		<SENSENODESPACE752 type="space" name="LeafSoft">
+			<SENSENODESPACE753 type="space" name="PartPanel">
+				<SENSENODECLASS754 type="class" name="AdbPanel">
+					<SENSENODEFUNC755 type="function" name="void btnSendCmd_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC755>
+				</SENSENODECLASS754>
+			</SENSENODESPACE753>
+		</SENSENODESPACE752>
+		<SENSENODESPACE756 type="space" name="LeafSoft">
+			<SENSENODESPACE757 type="space" name="PartPanel">
+				<SENSENODECLASS758 type="class" name="AdbPanel">
+					<SENSENODEFUNC759 type="function" name="void ShowSendCmdInfo(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC759>
+				</SENSENODECLASS758>
+			</SENSENODESPACE757>
+		</SENSENODESPACE756>
+		<SENSENODESPACE760 type="space" name="LeafSoft">
+			<SENSENODESPACE761 type="space" name="PartPanel">
+				<SENSENODECLASS762 type="class" name="AdbPanel">
+					<SENSENODEFUNC763 type="function" name="void btnClearCmd_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC763>
+				</SENSENODECLASS762>
+			</SENSENODESPACE761>
+		</SENSENODESPACE760>
+		<SENSENODESPACE764 type="space" name="LeafSoft">
+			<SENSENODESPACE765 type="space" name="PartPanel">
+				<SENSENODECLASS766 type="class" name="AdbPanel">
+					<SENSENODEFUNC767 type="function" name="void txtCustomCmd_KeyUp(object,KeyEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC767>
+				</SENSENODECLASS766>
+			</SENSENODESPACE765>
+		</SENSENODESPACE764>
+		<SENSENODESPACE768 type="space" name="LeafSoft">
+			<SENSENODESPACE769 type="space" name="PartPanel">
+				<SENSENODECLASS770 type="class" name="AdbPanel">
+					<SENSENODEFUNC771 type="function" name="void bt_connect_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC771>
+				</SENSENODECLASS770>
+			</SENSENODESPACE769>
+		</SENSENODESPACE768>
+		<SENSENODESPACE772 type="space" name="LeafSoft">
+			<SENSENODESPACE773 type="space" name="PartPanel">
+				<SENSENODECLASS774 type="class" name="AdbPanel">
+					<SENSENODEFUNC775 type="function" name="void bt_pull_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC775>
+				</SENSENODECLASS774>
+			</SENSENODESPACE773>
+		</SENSENODESPACE772>
+		<SENSENODESPACE776 type="space" name="LeafSoft">
+			<SENSENODESPACE777 type="space" name="PartPanel">
+				<SENSENODECLASS778 type="class" name="AdbPanel">
+					<SENSENODEFUNC779 type="function" name="void Init_ConfigAdb()">
+						<flags>8</flags>
+					</SENSENODEFUNC779>
+				</SENSENODECLASS778>
+			</SENSENODESPACE777>
+		</SENSENODESPACE776>
+		<SENSENODESPACE780 type="space" name="LeafSoft">
+			<SENSENODESPACE781 type="space" name="PartPanel">
+				<SENSENODECLASS782 type="class" name="AdbPanel">
+					<SENSENODEFUNC783 type="function" name="void Save_ConfigAdb()">
+						<flags>8</flags>
+					</SENSENODEFUNC783>
+				</SENSENODECLASS782>
+			</SENSENODESPACE781>
+		</SENSENODESPACE780>
+		<SENSENODESPACE784 type="space" name="LeafSoft">
+			<SENSENODESPACE785 type="space" name="PartPanel">
+				<SENSENODECLASS786 type="class" name="AdbPanel">
+					<SENSENODEFUNC787 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC787>
+				</SENSENODECLASS786>
+			</SENSENODESPACE785>
+		</SENSENODESPACE784>
+		<SENSENODESPACE788 type="space" name="LeafSoft">
+			<SENSENODESPACE789 type="space" name="PartPanel">
+				<SENSENODECLASS790 type="class" name="AdbPanel">
+					<SENSENODEFUNC791 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC791>
+				</SENSENODECLASS790>
+			</SENSENODESPACE789>
+		</SENSENODESPACE788>
+		<SENSENODESPACE792 type="space" name="LeafSoft">
+			<SENSENODESPACE793 type="space" name="PartPanel">
+				<SENSENODECLASS794 type="class" name="ComMonitor">
+					<SENSENODEFUNC795 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC795>
+				</SENSENODECLASS794>
+			</SENSENODESPACE793>
+		</SENSENODESPACE792>
+		<SENSENODESPACE796 type="space" name="LeafSoft">
+			<SENSENODESPACE797 type="space" name="PartPanel">
+				<SENSENODECLASS798 type="class" name="ComMonitor">
+					<SENSENODEFUNC799 type="function" name="void comStart_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC799>
+				</SENSENODECLASS798>
+			</SENSENODESPACE797>
+		</SENSENODESPACE796>
+		<SENSENODESPACE800 type="space" name="LeafSoft">
+			<SENSENODESPACE801 type="space" name="PartPanel">
+				<SENSENODECLASS802 type="class" name="ComMonitor">
+					<SENSENODEFUNC803 type="function" name="void comPause_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC803>
+				</SENSENODECLASS802>
+			</SENSENODESPACE801>
+		</SENSENODESPACE800>
+		<SENSENODESPACE804 type="space" name="LeafSoft">
+			<SENSENODESPACE805 type="space" name="PartPanel">
+				<SENSENODECLASS806 type="class" name="ComMonitor">
+					<SENSENODEFUNC807 type="function" name="void axCCommMonitorX1_OnAscii(object,ICommMonitorXEvents_OnAsciiEvent)">
+						<flags>8</flags>
+					</SENSENODEFUNC807>
+				</SENSENODECLASS806>
+			</SENSENODESPACE805>
+		</SENSENODESPACE804>
+		<SENSENODESPACE808 type="space" name="LeafSoft">
+			<SENSENODESPACE809 type="space" name="PartPanel">
+				<SENSENODECLASS810 type="class" name="ComMonitor">
+					<SENSENODEFUNC811 type="function" name="void axCCommMonitorX1_OnMonitor(object,ICommMonitorXEvents_OnMonitorEvent)">
+						<flags>8</flags>
+					</SENSENODEFUNC811>
+				</SENSENODECLASS810>
+			</SENSENODESPACE809>
+		</SENSENODESPACE808>
+		<SENSENODESPACE812 type="space" name="LeafSoft">
+			<SENSENODESPACE813 type="space" name="PartPanel">
+				<SENSENODECLASS814 type="class" name="ComMonitor">
+					<SENSENODEFUNC815 type="function" name="void textClear_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC815>
+				</SENSENODECLASS814>
+			</SENSENODESPACE813>
+		</SENSENODESPACE812>
+		<SENSENODESPACE816 type="space" name="LeafSoft">
+			<SENSENODESPACE817 type="space" name="PartPanel">
+				<SENSENODECLASS818 type="class" name="ComMonitor">
+					<SENSENODEFUNC819 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC819>
+				</SENSENODECLASS818>
+			</SENSENODESPACE817>
+		</SENSENODESPACE816>
+		<SENSENODESPACE820 type="space" name="LeafSoft">
+			<SENSENODESPACE821 type="space" name="PartPanel">
+				<SENSENODECLASS822 type="class" name="ComMonitor">
+					<SENSENODEFUNC823 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC823>
+				</SENSENODECLASS822>
+			</SENSENODESPACE821>
+		</SENSENODESPACE820>
+		<SENSENODESPACE824 type="space" name="LeafSoft">
+			<SENSENODESPACE825 type="space" name="PartPanel">
+				<SENSENODECLASS826 type="class" name="PingPanel">
+					<SENSENODEFUNC827 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC827>
+				</SENSENODECLASS826>
+			</SENSENODESPACE825>
+		</SENSENODESPACE824>
+		<SENSENODESPACE828 type="space" name="LeafSoft">
+			<SENSENODESPACE829 type="space" name="PartPanel">
+				<SENSENODECLASS830 type="class" name="PingPanel">
+					<SENSENODEFUNC831 type="function" name="void btnPing_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC831>
+				</SENSENODECLASS830>
+			</SENSENODESPACE829>
+		</SENSENODESPACE828>
+		<SENSENODESPACE832 type="space" name="LeafSoft">
+			<SENSENODESPACE833 type="space" name="PartPanel">
+				<SENSENODECLASS834 type="class" name="PingPanel">
+					<SENSENODEFUNC835 type="function" name="void PingThread(object)">
+						<flags>8</flags>
+					</SENSENODEFUNC835>
+				</SENSENODECLASS834>
+			</SENSENODESPACE833>
+		</SENSENODESPACE832>
+		<SENSENODESPACE836 type="space" name="LeafSoft">
+			<SENSENODESPACE837 type="space" name="PartPanel">
+				<SENSENODECLASS838 type="class" name="PingPanel">
+					<SENSENODEFUNC839 type="function" name="void MSI_Clear_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC839>
+				</SENSENODECLASS838>
+			</SENSENODESPACE837>
+		</SENSENODESPACE836>
+		<SENSENODESPACE840 type="space" name="LeafSoft">
+			<SENSENODESPACE841 type="space" name="PartPanel">
+				<SENSENODECLASS842 type="class" name="PingPanel">
+					<SENSENODEFUNC843 type="function" name="void PingPanel_Load(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC843>
+				</SENSENODECLASS842>
+			</SENSENODESPACE841>
+		</SENSENODESPACE840>
+		<SENSENODESPACE844 type="space" name="LeafSoft">
+			<SENSENODESPACE845 type="space" name="PartPanel">
+				<SENSENODECLASS846 type="class" name="PingPanel">
+					<SENSENODEFUNC847 type="function" name="void ExecuteCMD()">
+						<flags>8</flags>
+					</SENSENODEFUNC847>
+				</SENSENODECLASS846>
+			</SENSENODESPACE845>
+		</SENSENODESPACE844>
+		<SENSENODESPACE848 type="space" name="LeafSoft">
+			<SENSENODESPACE849 type="space" name="PartPanel">
+				<SENSENODECLASS850 type="class" name="PingPanel">
+					<SENSENODEFUNC851 type="function" name="void ExecuteADB(object)">
+						<flags>8</flags>
+					</SENSENODEFUNC851>
+				</SENSENODECLASS850>
+			</SENSENODESPACE849>
+		</SENSENODESPACE848>
+		<SENSENODESPACE852 type="space" name="LeafSoft">
+			<SENSENODESPACE853 type="space" name="PartPanel">
+				<SENSENODECLASS854 type="class" name="PingPanel">
+					<SENSENODEFUNC855 type="function" name="void AppendText(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC855>
+				</SENSENODECLASS854>
+			</SENSENODESPACE853>
+		</SENSENODESPACE852>
+		<SENSENODESPACE856 type="space" name="LeafSoft">
+			<SENSENODESPACE857 type="space" name="PartPanel">
+				<SENSENODECLASS858 type="class" name="PingPanel">
+					<SENSENODEFUNC859 type="function" name="void OutputHandler(object,DataReceivedEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC859>
+				</SENSENODECLASS858>
+			</SENSENODESPACE857>
+		</SENSENODESPACE856>
+		<SENSENODESPACE860 type="space" name="LeafSoft">
+			<SENSENODESPACE861 type="space" name="PartPanel">
+				<SENSENODECLASS862 type="class" name="PingPanel">
+					<SENSENODEFUNC863 type="function" name="void OutPutForm_FormClosing()">
+						<flags>8</flags>
+					</SENSENODEFUNC863>
+				</SENSENODECLASS862>
+			</SENSENODESPACE861>
+		</SENSENODESPACE860>
+		<SENSENODESPACE864 type="space" name="LeafSoft">
+			<SENSENODESPACE865 type="space" name="PartPanel">
+				<SENSENODECLASS866 type="class" name="PingPanel">
+					<SENSENODEFUNC867 type="function" name="void textBox1_KeyUp(object,KeyEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC867>
+				</SENSENODECLASS866>
+			</SENSENODESPACE865>
+		</SENSENODESPACE864>
+		<SENSENODESPACE868 type="space" name="LeafSoft">
+			<SENSENODESPACE869 type="space" name="PartPanel">
+				<SENSENODECLASS870 type="class" name="PingPanel">
+					<SENSENODEFUNC871 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC871>
+				</SENSENODECLASS870>
+			</SENSENODESPACE869>
+		</SENSENODESPACE868>
+		<SENSENODESPACE872 type="space" name="LeafSoft">
+			<SENSENODESPACE873 type="space" name="PartPanel">
+				<SENSENODECLASS874 type="class" name="PingPanel">
+					<SENSENODEFUNC875 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC875>
+				</SENSENODECLASS874>
+			</SENSENODESPACE873>
+		</SENSENODESPACE872>
+		<SENSENODESPACE876 type="space" name="LeafSoft">
+			<SENSENODESPACE877 type="space" name="PartPanel">
+				<SENSENODECLASS878 type="class" name="SocketMonitor">
+					<SENSENODEFUNC879 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC879>
+				</SENSENODECLASS878>
+			</SENSENODESPACE877>
+		</SENSENODESPACE876>
+		<SENSENODESPACE880 type="space" name="LeafSoft">
+			<SENSENODESPACE881 type="space" name="PartPanel">
+				<SENSENODECLASS882 type="class" name="SocketMonitor">
+					<SENSENODEFUNC883 type="function" name="void sniffer_RecPacket(IPPacket)">
+						<flags>8</flags>
+					</SENSENODEFUNC883>
+				</SENSENODECLASS882>
+			</SENSENODESPACE881>
+		</SENSENODESPACE880>
+		<SENSENODESPACE884 type="space" name="LeafSoft">
+			<SENSENODESPACE885 type="space" name="PartPanel">
+				<SENSENODECLASS886 type="class" name="SocketMonitor">
+					<SENSENODEFUNC887 type="function" name="void btnMonitor_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC887>
+				</SENSENODECLASS886>
+			</SENSENODESPACE885>
+		</SENSENODESPACE884>
+		<SENSENODESPACE888 type="space" name="LeafSoft">
+			<SENSENODESPACE889 type="space" name="PartPanel">
+				<SENSENODECLASS890 type="class" name="SocketMonitor">
+					<SENSENODEFUNC891 type="function" name="void dgPacket_SelectionChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC891>
+				</SENSENODECLASS890>
+			</SENSENODESPACE889>
+		</SENSENODESPACE888>
+		<SENSENODESPACE892 type="space" name="LeafSoft">
+			<SENSENODESPACE893 type="space" name="PartPanel">
+				<SENSENODECLASS894 type="class" name="SocketMonitor">
+					<SENSENODEFUNC895 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC895>
+				</SENSENODECLASS894>
+			</SENSENODESPACE893>
+		</SENSENODESPACE892>
+		<SENSENODESPACE896 type="space" name="LeafSoft">
+			<SENSENODESPACE897 type="space" name="PartPanel">
+				<SENSENODECLASS898 type="class" name="SocketMonitor">
+					<SENSENODEFUNC899 type="function" name="void cbxProtocol_SelectedIndexChanged(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC899>
+				</SENSENODECLASS898>
+			</SENSENODESPACE897>
+		</SENSENODESPACE896>
+		<SENSENODESPACE900 type="space" name="LeafSoft">
+			<SENSENODESPACE901 type="space" name="PartPanel">
+				<SENSENODECLASS902 type="class" name="SocketMonitor">
+					<SENSENODEFUNC903 type="function" name="void nmSourcePort_ValueChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC903>
+				</SENSENODECLASS902>
+			</SENSENODESPACE901>
+		</SENSENODESPACE900>
+		<SENSENODESPACE904 type="space" name="LeafSoft">
+			<SENSENODESPACE905 type="space" name="PartPanel">
+				<SENSENODECLASS906 type="class" name="SocketMonitor">
+					<SENSENODEFUNC907 type="function" name="void nmTargetPort_ValueChanged(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC907>
+				</SENSENODECLASS906>
+			</SENSENODESPACE905>
+		</SENSENODESPACE904>
+		<SENSENODESPACE908 type="space" name="LeafSoft">
+			<SENSENODESPACE909 type="space" name="PartPanel">
+				<SENSENODECLASS910 type="class" name="SocketMonitor">
+					<SENSENODEFUNC911 type="function" name="void MS_Clear_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC911>
+				</SENSENODECLASS910>
+			</SENSENODESPACE909>
+		</SENSENODESPACE908>
+		<SENSENODESPACE912 type="space" name="LeafSoft">
+			<SENSENODESPACE913 type="space" name="PartPanel">
+				<SENSENODECLASS914 type="class" name="SocketMonitor">
+					<SENSENODEFUNC915 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC915>
+				</SENSENODECLASS914>
+			</SENSENODESPACE913>
+		</SENSENODESPACE912>
+		<SENSENODESPACE916 type="space" name="LeafSoft">
+			<SENSENODESPACE917 type="space" name="PartPanel">
+				<SENSENODECLASS918 type="class" name="SocketMonitor">
+					<SENSENODEFUNC919 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC919>
+				</SENSENODECLASS918>
+			</SENSENODESPACE917>
+		</SENSENODESPACE916>
+		<SENSENODESPACE920 type="space" name="LeafSoft">
+			<SENSENODESPACE921 type="space" name="PartPanel">
+				<SENSENODECLASS922 type="class" name="WOLPanel">
+					<SENSENODEFUNC923 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC923>
+				</SENSENODECLASS922>
+			</SENSENODESPACE921>
+		</SENSENODESPACE920>
+		<SENSENODESPACE924 type="space" name="LeafSoft">
+			<SENSENODESPACE925 type="space" name="PartPanel">
+				<SENSENODECLASS926 type="class" name="WOLPanel">
+					<SENSENODEFUNC927 type="function" name="void button1_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC927>
+				</SENSENODECLASS926>
+			</SENSENODESPACE925>
+		</SENSENODESPACE924>
+		<SENSENODESPACE928 type="space" name="LeafSoft">
+			<SENSENODESPACE929 type="space" name="PartPanel">
+				<SENSENODECLASS930 type="class" name="WOLPanel">
+					<SENSENODEFUNC931 type="function" name="void SendWakeOnLanPacket(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC931>
+				</SENSENODECLASS930>
+			</SENSENODESPACE929>
+		</SENSENODESPACE928>
+		<SENSENODESPACE932 type="space" name="LeafSoft">
+			<SENSENODESPACE933 type="space" name="PartPanel">
+				<SENSENODECLASS934 type="class" name="WOLPanel">
+					<SENSENODEFUNC935 type="function" name="void SendWakeOnLanPacket(byte[],string)">
+						<flags>8</flags>
+					</SENSENODEFUNC935>
+				</SENSENODECLASS934>
+			</SENSENODESPACE933>
+		</SENSENODESPACE932>
+		<SENSENODESPACE936 type="space" name="LeafSoft">
+			<SENSENODESPACE937 type="space" name="PartPanel">
+				<SENSENODECLASS938 type="class" name="WOLPanel">
+					<SENSENODEFUNC939 type="function" name="void btMac_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC939>
+				</SENSENODECLASS938>
+			</SENSENODESPACE937>
+		</SENSENODESPACE936>
+		<SENSENODESPACE940 type="space" name="LeafSoft">
+			<SENSENODESPACE941 type="space" name="PartPanel">
+				<SENSENODECLASS942 type="class" name="WOLPanel">
+					<SENSENODEFUNC943 type="function" name="void dgWOL_RowsAdded(object,DataGridViewRowsAddedEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC943>
+				</SENSENODECLASS942>
+			</SENSENODESPACE941>
+		</SENSENODESPACE940>
+		<SENSENODESPACE944 type="space" name="LeafSoft">
+			<SENSENODESPACE945 type="space" name="PartPanel">
+				<SENSENODECLASS946 type="class" name="WOLPanel">
+					<SENSENODEFUNC947 type="function" name="byte[] MacToBytes(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC947>
+				</SENSENODECLASS946>
+			</SENSENODESPACE945>
+		</SENSENODESPACE944>
+		<SENSENODESPACE948 type="space" name="LeafSoft">
+			<SENSENODESPACE949 type="space" name="PartPanel">
+				<SENSENODECLASS950 type="class" name="WOLPanel">
+					<SENSENODEFUNC951 type="function" name="void dgWOL_CellContentClick(object,DataGridViewCellEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC951>
+				</SENSENODECLASS950>
+			</SENSENODESPACE949>
+		</SENSENODESPACE948>
+		<SENSENODESPACE952 type="space" name="LeafSoft">
+			<SENSENODESPACE953 type="space" name="PartPanel">
+				<SENSENODECLASS954 type="class" name="WOLPanel">
+					<SENSENODEFUNC955 type="function" name="void dgWOL_CellDoubleClick(object,DataGridViewCellEventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC955>
+				</SENSENODECLASS954>
+			</SENSENODESPACE953>
+		</SENSENODESPACE952>
+		<SENSENODESPACE956 type="space" name="LeafSoft">
+			<SENSENODESPACE957 type="space" name="PartPanel">
+				<SENSENODECLASS958 type="class" name="WOLPanel">
+					<SENSENODEFUNC959 type="function" name="void btDelete_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC959>
+				</SENSENODECLASS958>
+			</SENSENODESPACE957>
+		</SENSENODESPACE956>
+		<SENSENODESPACE960 type="space" name="LeafSoft">
+			<SENSENODESPACE961 type="space" name="PartPanel">
+				<SENSENODECLASS962 type="class" name="WOLPanel">
+					<SENSENODEFUNC963 type="function" name="bool CheckSelectSend()">
+						<flags>8</flags>
+					</SENSENODEFUNC963>
+				</SENSENODECLASS962>
+			</SENSENODESPACE961>
+		</SENSENODESPACE960>
+		<SENSENODESPACE964 type="space" name="LeafSoft">
+			<SENSENODESPACE965 type="space" name="PartPanel">
+				<SENSENODECLASS966 type="class" name="WOLPanel">
+					<SENSENODEFUNC967 type="function" name="void btAllsend_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC967>
+				</SENSENODECLASS966>
+			</SENSENODESPACE965>
+		</SENSENODESPACE964>
+		<SENSENODESPACE968 type="space" name="LeafSoft">
+			<SENSENODESPACE969 type="space" name="PartPanel">
+				<SENSENODECLASS970 type="class" name="WOLPanel">
+					<SENSENODEFUNC971 type="function" name="void TWakeSend()">
+						<flags>8</flags>
+					</SENSENODEFUNC971>
+				</SENSENODECLASS970>
+			</SENSENODESPACE969>
+		</SENSENODESPACE968>
+		<SENSENODESPACE972 type="space" name="LeafSoft">
+			<SENSENODESPACE973 type="space" name="PartPanel">
+				<SENSENODECLASS974 type="class" name="WOLPanel">
+					<SENSENODEFUNC975 type="function" name="void StopWakeSend()">
+						<flags>8</flags>
+					</SENSENODEFUNC975>
+				</SENSENODECLASS974>
+			</SENSENODESPACE973>
+		</SENSENODESPACE972>
+		<SENSENODESPACE976 type="space" name="LeafSoft">
+			<SENSENODESPACE977 type="space" name="PartPanel">
+				<SENSENODECLASS978 type="class" name="WOLPanel">
+					<SENSENODEFUNC979 type="function" name="void btAdd_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC979>
+				</SENSENODECLASS978>
+			</SENSENODESPACE977>
+		</SENSENODESPACE976>
+		<SENSENODESPACE980 type="space" name="LeafSoft">
+			<SENSENODESPACE981 type="space" name="PartPanel">
+				<SENSENODECLASS982 type="class" name="WOLPanel">
+					<SENSENODEFUNC983 type="function" name="void Load_Inifile()">
+						<flags>8</flags>
+					</SENSENODEFUNC983>
+				</SENSENODECLASS982>
+			</SENSENODESPACE981>
+		</SENSENODESPACE980>
+		<SENSENODESPACE984 type="space" name="LeafSoft">
+			<SENSENODESPACE985 type="space" name="PartPanel">
+				<SENSENODECLASS986 type="class" name="WOLPanel">
+					<SENSENODEFUNC987 type="function" name="void WOL_Saved_default()">
+						<flags>8</flags>
+					</SENSENODEFUNC987>
+				</SENSENODECLASS986>
+			</SENSENODESPACE985>
+		</SENSENODESPACE984>
+		<SENSENODESPACE988 type="space" name="LeafSoft">
+			<SENSENODESPACE989 type="space" name="PartPanel">
+				<SENSENODECLASS990 type="class" name="WOLPanel">
+					<SENSENODEFUNC991 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC991>
+				</SENSENODECLASS990>
+			</SENSENODESPACE989>
+		</SENSENODESPACE988>
+		<SENSENODESPACE992 type="space" name="LeafSoft">
+			<SENSENODESPACE993 type="space" name="PartPanel">
+				<SENSENODECLASS994 type="class" name="WOLPanel">
+					<SENSENODEFUNC995 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC995>
+				</SENSENODECLASS994>
+			</SENSENODESPACE993>
+		</SENSENODESPACE992>
+		<SENSENODESPACE996 type="space" name="LeafSoft">
+			<SENSENODESPACE997 type="space" name="PartPanel">
+				<SENSENODECLASS998 type="class" name="ComPanel">
+					<SENSENODEFUNC999 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC999>
+				</SENSENODECLASS998>
+			</SENSENODESPACE997>
+		</SENSENODESPACE996>
+		<SENSENODESPACE1000 type="space" name="LeafSoft">
+			<SENSENODESPACE1001 type="space" name="PartPanel">
+				<SENSENODECLASS1002 type="class" name="ComPanel">
+					<SENSENODEFUNC1003 type="function" name="bool DataSender_EventDataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1003>
+				</SENSENODECLASS1002>
+			</SENSENODESPACE1001>
+		</SENSENODESPACE1000>
+		<SENSENODESPACE1004 type="space" name="LeafSoft">
+			<SENSENODESPACE1005 type="space" name="PartPanel">
+				<SENSENODECLASS1006 type="class" name="ComPanel">
+					<SENSENODEFUNC1007 type="function" name="void Configer_DataReceived(object,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1007>
+				</SENSENODECLASS1006>
+			</SENSENODESPACE1005>
+		</SENSENODESPACE1004>
+		<SENSENODESPACE1008 type="space" name="LeafSoft">
+			<SENSENODESPACE1009 type="space" name="PartPanel">
+				<SENSENODECLASS1010 type="class" name="ComPanel">
+					<SENSENODEFUNC1011 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC1011>
+				</SENSENODECLASS1010>
+			</SENSENODESPACE1009>
+		</SENSENODESPACE1008>
+		<SENSENODESPACE1012 type="space" name="LeafSoft">
+			<SENSENODESPACE1013 type="space" name="PartPanel">
+				<SENSENODECLASS1014 type="class" name="ComPanel">
+					<SENSENODEFUNC1015 type="function" name="void btnSuper_Click(object,EventArgs)">
+						<flags>1</flags>
+					</SENSENODEFUNC1015>
+				</SENSENODECLASS1014>
+			</SENSENODESPACE1013>
+		</SENSENODESPACE1012>
+		<SENSENODESPACE1016 type="space" name="LeafSoft">
+			<SENSENODESPACE1017 type="space" name="PartPanel">
+				<SENSENODECLASS1018 type="class" name="ComPanel">
+					<SENSENODEFUNC1019 type="function" name="bool txtCmd_DataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1019>
+				</SENSENODECLASS1018>
+			</SENSENODESPACE1017>
+		</SENSENODESPACE1016>
+		<SENSENODESPACE1020 type="space" name="LeafSoft">
+			<SENSENODESPACE1021 type="space" name="PartPanel">
+				<SENSENODECLASS1022 type="class" name="ComPanel">
+					<SENSENODEFUNC1023 type="function" name="void MS_ClearCMD_Click(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1023>
+				</SENSENODECLASS1022>
+			</SENSENODESPACE1021>
+		</SENSENODESPACE1020>
+		<SENSENODESPACE1024 type="space" name="LeafSoft">
+			<SENSENODESPACE1025 type="space" name="PartPanel">
+				<SENSENODECLASS1026 type="class" name="ComPanel">
+					<SENSENODEFUNC1027 type="function" name="void MS_FontSet_Click(object,EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1027>
+				</SENSENODECLASS1026>
+			</SENSENODESPACE1025>
+		</SENSENODESPACE1024>
+		<SENSENODESPACE1028 type="space" name="LeafSoft">
+			<SENSENODESPACE1029 type="space" name="PartPanel">
+				<SENSENODECLASS1030 type="class" name="ComPanel">
+					<SENSENODEFUNC1031 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC1031>
+				</SENSENODECLASS1030>
+			</SENSENODESPACE1029>
+		</SENSENODESPACE1028>
+		<SENSENODESPACE1032 type="space" name="LeafSoft">
+			<SENSENODESPACE1033 type="space" name="PartPanel">
+				<SENSENODECLASS1034 type="class" name="ComPanel">
+					<SENSENODEFUNC1035 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1035>
+				</SENSENODECLASS1034>
+			</SENSENODESPACE1033>
+		</SENSENODESPACE1032>
+		<SENSENODESPACE1036 type="space" name="LeafSoft">
+			<SENSENODESPACE1037 type="space" name="PartPanel">
+				<SENSENODECLASS1038 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1039 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC1039>
+				</SENSENODECLASS1038>
+			</SENSENODESPACE1037>
+		</SENSENODESPACE1036>
+		<SENSENODESPACE1040 type="space" name="LeafSoft">
+			<SENSENODESPACE1041 type="space" name="PartPanel">
+				<SENSENODECLASS1042 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1043 type="function" name="bool DataSender_EventDataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1043>
+				</SENSENODECLASS1042>
+			</SENSENODESPACE1041>
+		</SENSENODESPACE1040>
+		<SENSENODESPACE1044 type="space" name="LeafSoft">
+			<SENSENODESPACE1045 type="space" name="PartPanel">
+				<SENSENODECLASS1046 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1047 type="function" name="void Configer_DataReceived(object,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1047>
+				</SENSENODECLASS1046>
+			</SENSENODESPACE1045>
+		</SENSENODESPACE1044>
+		<SENSENODESPACE1048 type="space" name="LeafSoft">
+			<SENSENODESPACE1049 type="space" name="PartPanel">
+				<SENSENODECLASS1050 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1051 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC1051>
+				</SENSENODECLASS1050>
+			</SENSENODESPACE1049>
+		</SENSENODESPACE1048>
+		<SENSENODESPACE1052 type="space" name="LeafSoft">
+			<SENSENODESPACE1053 type="space" name="PartPanel">
+				<SENSENODECLASS1054 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1055 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC1055>
+				</SENSENODECLASS1054>
+			</SENSENODESPACE1053>
+		</SENSENODESPACE1052>
+		<SENSENODESPACE1056 type="space" name="LeafSoft">
+			<SENSENODESPACE1057 type="space" name="PartPanel">
+				<SENSENODECLASS1058 type="class" name="TCPClientPanel">
+					<SENSENODEFUNC1059 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1059>
+				</SENSENODECLASS1058>
+			</SENSENODESPACE1057>
+		</SENSENODESPACE1056>
+		<SENSENODESPACE1060 type="space" name="LeafSoft">
+			<SENSENODESPACE1061 type="space" name="PartPanel">
+				<SENSENODECLASS1062 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1063 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC1063>
+				</SENSENODECLASS1062>
+			</SENSENODESPACE1061>
+		</SENSENODESPACE1060>
+		<SENSENODESPACE1064 type="space" name="LeafSoft">
+			<SENSENODESPACE1065 type="space" name="PartPanel">
+				<SENSENODECLASS1066 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1067 type="function" name="bool DataSender_EventDataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1067>
+				</SENSENODECLASS1066>
+			</SENSENODESPACE1065>
+		</SENSENODESPACE1064>
+		<SENSENODESPACE1068 type="space" name="LeafSoft">
+			<SENSENODESPACE1069 type="space" name="PartPanel">
+				<SENSENODECLASS1070 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1071 type="function" name="void Configer_DataReceived(object,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1071>
+				</SENSENODECLASS1070>
+			</SENSENODESPACE1069>
+		</SENSENODESPACE1068>
+		<SENSENODESPACE1072 type="space" name="LeafSoft">
+			<SENSENODESPACE1073 type="space" name="PartPanel">
+				<SENSENODECLASS1074 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1075 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC1075>
+				</SENSENODECLASS1074>
+			</SENSENODESPACE1073>
+		</SENSENODESPACE1072>
+		<SENSENODESPACE1076 type="space" name="LeafSoft">
+			<SENSENODESPACE1077 type="space" name="PartPanel">
+				<SENSENODECLASS1078 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1079 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC1079>
+				</SENSENODECLASS1078>
+			</SENSENODESPACE1077>
+		</SENSENODESPACE1076>
+		<SENSENODESPACE1080 type="space" name="LeafSoft">
+			<SENSENODESPACE1081 type="space" name="PartPanel">
+				<SENSENODECLASS1082 type="class" name="TCPServerPanel">
+					<SENSENODEFUNC1083 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1083>
+				</SENSENODECLASS1082>
+			</SENSENODESPACE1081>
+		</SENSENODESPACE1080>
+		<SENSENODESPACE1084 type="space" name="LeafSoft">
+			<SENSENODESPACE1085 type="space" name="PartPanel">
+				<SENSENODECLASS1086 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1087 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC1087>
+				</SENSENODECLASS1086>
+			</SENSENODESPACE1085>
+		</SENSENODESPACE1084>
+		<SENSENODESPACE1088 type="space" name="LeafSoft">
+			<SENSENODESPACE1089 type="space" name="PartPanel">
+				<SENSENODECLASS1090 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1091 type="function" name="bool DataSender_EventDataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1091>
+				</SENSENODECLASS1090>
+			</SENSENODESPACE1089>
+		</SENSENODESPACE1088>
+		<SENSENODESPACE1092 type="space" name="LeafSoft">
+			<SENSENODESPACE1093 type="space" name="PartPanel">
+				<SENSENODECLASS1094 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1095 type="function" name="void Configer_DataReceived(object,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1095>
+				</SENSENODECLASS1094>
+			</SENSENODESPACE1093>
+		</SENSENODESPACE1092>
+		<SENSENODESPACE1096 type="space" name="LeafSoft">
+			<SENSENODESPACE1097 type="space" name="PartPanel">
+				<SENSENODECLASS1098 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1099 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC1099>
+				</SENSENODECLASS1098>
+			</SENSENODESPACE1097>
+		</SENSENODESPACE1096>
+		<SENSENODESPACE1100 type="space" name="LeafSoft">
+			<SENSENODESPACE1101 type="space" name="PartPanel">
+				<SENSENODECLASS1102 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1103 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC1103>
+				</SENSENODECLASS1102>
+			</SENSENODESPACE1101>
+		</SENSENODESPACE1100>
+		<SENSENODESPACE1104 type="space" name="LeafSoft">
+			<SENSENODESPACE1105 type="space" name="PartPanel">
+				<SENSENODECLASS1106 type="class" name="UDPClientPanel">
+					<SENSENODEFUNC1107 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1107>
+				</SENSENODECLASS1106>
+			</SENSENODESPACE1105>
+		</SENSENODESPACE1104>
+		<SENSENODESPACE1108 type="space" name="LeafSoft">
+			<SENSENODESPACE1109 type="space" name="PartPanel">
+				<SENSENODECLASS1110 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1111 type="function" name="void .ctor()">
+						<flags>1</flags>
+					</SENSENODEFUNC1111>
+				</SENSENODECLASS1110>
+			</SENSENODESPACE1109>
+		</SENSENODESPACE1108>
+		<SENSENODESPACE1112 type="space" name="LeafSoft">
+			<SENSENODESPACE1113 type="space" name="PartPanel">
+				<SENSENODECLASS1114 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1115 type="function" name="bool DataSender_EventDataSend(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1115>
+				</SENSENODECLASS1114>
+			</SENSENODESPACE1113>
+		</SENSENODESPACE1112>
+		<SENSENODESPACE1116 type="space" name="LeafSoft">
+			<SENSENODESPACE1117 type="space" name="PartPanel">
+				<SENSENODECLASS1118 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1119 type="function" name="void Configer_DataReceived(object,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1119>
+				</SENSENODECLASS1118>
+			</SENSENODESPACE1117>
+		</SENSENODESPACE1116>
+		<SENSENODESPACE1120 type="space" name="LeafSoft">
+			<SENSENODESPACE1121 type="space" name="PartPanel">
+				<SENSENODECLASS1122 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1123 type="function" name="void ClearSelf()">
+						<flags>8</flags>
+					</SENSENODEFUNC1123>
+				</SENSENODECLASS1122>
+			</SENSENODESPACE1121>
+		</SENSENODESPACE1120>
+		<SENSENODESPACE1124 type="space" name="LeafSoft">
+			<SENSENODESPACE1125 type="space" name="PartPanel">
+				<SENSENODECLASS1126 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1127 type="function" name="void Dispose(bool)">
+						<flags>1</flags>
+					</SENSENODEFUNC1127>
+				</SENSENODECLASS1126>
+			</SENSENODESPACE1125>
+		</SENSENODESPACE1124>
+		<SENSENODESPACE1128 type="space" name="LeafSoft">
+			<SENSENODESPACE1129 type="space" name="PartPanel">
+				<SENSENODECLASS1130 type="class" name="UDPServerPanel">
+					<SENSENODEFUNC1131 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1131>
+				</SENSENODECLASS1130>
+			</SENSENODESPACE1129>
+		</SENSENODESPACE1128>
+		<SENSENODESPACE1132 type="space" name="LeafSoft">
+			<SENSENODESPACE1133 type="space" name="Model">
+				<SENSENODECLASS1134 type="class" name="IPPacket">
+					<SENSENODEFUNC1135 type="function" name="string get_Protocol()">
+						<flags>8</flags>
+					</SENSENODEFUNC1135>
+				</SENSENODECLASS1134>
+			</SENSENODESPACE1133>
+		</SENSENODESPACE1132>
+		<SENSENODESPACE1136 type="space" name="LeafSoft">
+			<SENSENODESPACE1137 type="space" name="Model">
+				<SENSENODECLASS1138 type="class" name="IPPacket">
+					<SENSENODEFUNC1139 type="function" name="string get_SourceIP()">
+						<flags>8</flags>
+					</SENSENODEFUNC1139>
+				</SENSENODECLASS1138>
+			</SENSENODESPACE1137>
+		</SENSENODESPACE1136>
+		<SENSENODESPACE1140 type="space" name="LeafSoft">
+			<SENSENODESPACE1141 type="space" name="Model">
+				<SENSENODECLASS1142 type="class" name="IPPacket">
+					<SENSENODEFUNC1143 type="function" name="int get_SourcePort()">
+						<flags>8</flags>
+					</SENSENODEFUNC1143>
+				</SENSENODECLASS1142>
+			</SENSENODESPACE1141>
+		</SENSENODESPACE1140>
+		<SENSENODESPACE1144 type="space" name="LeafSoft">
+			<SENSENODESPACE1145 type="space" name="Model">
+				<SENSENODECLASS1146 type="class" name="IPPacket">
+					<SENSENODEFUNC1147 type="function" name="string get_TargetIP()">
+						<flags>8</flags>
+					</SENSENODEFUNC1147>
+				</SENSENODECLASS1146>
+			</SENSENODESPACE1145>
+		</SENSENODESPACE1144>
+		<SENSENODESPACE1148 type="space" name="LeafSoft">
+			<SENSENODESPACE1149 type="space" name="Model">
+				<SENSENODECLASS1150 type="class" name="IPPacket">
+					<SENSENODEFUNC1151 type="function" name="int get_TargetPort()">
+						<flags>8</flags>
+					</SENSENODEFUNC1151>
+				</SENSENODECLASS1150>
+			</SENSENODESPACE1149>
+		</SENSENODESPACE1148>
+		<SENSENODESPACE1152 type="space" name="LeafSoft">
+			<SENSENODESPACE1153 type="space" name="Model">
+				<SENSENODECLASS1154 type="class" name="IPPacket">
+					<SENSENODEFUNC1155 type="function" name="byte[] get_ReceiveBuffer()">
+						<flags>8</flags>
+					</SENSENODEFUNC1155>
+				</SENSENODECLASS1154>
+			</SENSENODESPACE1153>
+		</SENSENODESPACE1152>
+		<SENSENODESPACE1156 type="space" name="LeafSoft">
+			<SENSENODESPACE1157 type="space" name="Model">
+				<SENSENODECLASS1158 type="class" name="IPPacket">
+					<SENSENODEFUNC1159 type="function" name="DateTime get_RecTime()">
+						<flags>8</flags>
+					</SENSENODEFUNC1159>
+				</SENSENODECLASS1158>
+			</SENSENODESPACE1157>
+		</SENSENODESPACE1156>
+		<SENSENODESPACE1160 type="space" name="LeafSoft">
+			<SENSENODESPACE1161 type="space" name="Model">
+				<SENSENODECLASS1162 type="class" name="LeafUDPClient">
+					<SENSENODEFUNC1163 type="function" name="string get_Name()">
+						<flags>8</flags>
+					</SENSENODEFUNC1163>
+				</SENSENODECLASS1162>
+			</SENSENODESPACE1161>
+		</SENSENODESPACE1160>
+		<SENSENODESPACE1164 type="space" name="LeafSoft">
+			<SENSENODESPACE1165 type="space" name="Model">
+				<SENSENODECLASS1166 type="class" name="LeafUDPClient">
+					<SENSENODEFUNC1167 type="function" name="IPEndPoint get_ipLocalEndPoint()">
+						<flags>8</flags>
+					</SENSENODEFUNC1167>
+				</SENSENODECLASS1166>
+			</SENSENODESPACE1165>
+		</SENSENODESPACE1164>
+		<SENSENODESPACE1168 type="space" name="LeafSoft">
+			<SENSENODESPACE1169 type="space" name="Model">
+				<SENSENODECLASS1170 type="class" name="LeafUDPClient">
+					<SENSENODEFUNC1171 type="function" name="UdpClient get_NetWork()">
+						<flags>8</flags>
+					</SENSENODEFUNC1171>
+				</SENSENODECLASS1170>
+			</SENSENODESPACE1169>
+		</SENSENODESPACE1168>
+		<SENSENODESPACE1172 type="space" name="LeafSoft">
+			<SENSENODESPACE1173 type="space" name="Model">
+				<SENSENODECLASS1174 type="class" name="LeafUDPClient">
+					<SENSENODEFUNC1175 type="function" name="void Close()">
+						<flags>8</flags>
+					</SENSENODEFUNC1175>
+				</SENSENODECLASS1174>
+			</SENSENODESPACE1173>
+		</SENSENODESPACE1172>
+		<SENSENODESPACE1176 type="space" name="LeafSoft">
+			<SENSENODESPACE1177 type="space" name="Model">
+				<SENSENODECLASS1178 type="class" name="LeafUDPClient">
+					<SENSENODEFUNC1179 type="function" name="void .ctor()">
+						<flags>8</flags>
+					</SENSENODEFUNC1179>
+				</SENSENODECLASS1178>
+			</SENSENODESPACE1177>
+		</SENSENODESPACE1176>
+		<SENSENODESPACE1180 type="space" name="LeafSoft">
+			<SENSENODESPACE1181 type="space" name="Model">
+				<SENSENODECLASS1182 type="class" name="WOL">
+					<SENSENODEFUNC1183 type="function" name="string get_MAC()">
+						<flags>8</flags>
+					</SENSENODEFUNC1183>
+				</SENSENODECLASS1182>
+			</SENSENODESPACE1181>
+		</SENSENODESPACE1180>
+		<SENSENODESPACE1184 type="space" name="LeafSoft">
+			<SENSENODESPACE1185 type="space" name="Model">
+				<SENSENODECLASS1186 type="class" name="WOL">
+					<SENSENODEFUNC1187 type="function" name="string get_NAME()">
+						<flags>8</flags>
+					</SENSENODEFUNC1187>
+				</SENSENODECLASS1186>
+			</SENSENODESPACE1185>
+		</SENSENODESPACE1184>
+		<SENSENODESPACE1188 type="space" name="LeafSoft">
+			<SENSENODESPACE1189 type="space" name="Model">
+				<SENSENODECLASS1190 type="class" name="WOL">
+					<SENSENODEFUNC1191 type="function" name="string get_IP()">
+						<flags>8</flags>
+					</SENSENODEFUNC1191>
+				</SENSENODECLASS1190>
+			</SENSENODESPACE1189>
+		</SENSENODESPACE1188>
+		<SENSENODESPACE1192 type="space" name="LeafSoft">
+			<SENSENODESPACE1193 type="space" name="Model">
+				<SENSENODECLASS1194 type="class" name="CMD">
+					<SENSENODEFUNC1195 type="function" name="void .ctor(DataEncode,byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1195>
+				</SENSENODECLASS1194>
+			</SENSENODESPACE1193>
+		</SENSENODESPACE1192>
+		<SENSENODESPACE1196 type="space" name="LeafSoft">
+			<SENSENODESPACE1197 type="space" name="Model">
+				<SENSENODECLASS1198 type="class" name="CMD">
+					<SENSENODEFUNC1199 type="function" name="void .ctor(DataEncode,string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1199>
+				</SENSENODECLASS1198>
+			</SENSENODESPACE1197>
+		</SENSENODESPACE1196>
+		<SENSENODESPACE1200 type="space" name="LeafSoft">
+			<SENSENODESPACE1201 type="space" name="Model">
+				<SENSENODECLASS1202 type="class" name="CMD">
+					<SENSENODEFUNC1203 type="function" name="DataEncode get_ContentType()">
+						<flags>8</flags>
+					</SENSENODEFUNC1203>
+				</SENSENODECLASS1202>
+			</SENSENODESPACE1201>
+		</SENSENODESPACE1200>
+		<SENSENODESPACE1204 type="space" name="LeafSoft">
+			<SENSENODESPACE1205 type="space" name="Model">
+				<SENSENODECLASS1206 type="class" name="CMD">
+					<SENSENODEFUNC1207 type="function" name="string get_ContentTypeName()">
+						<flags>8</flags>
+					</SENSENODEFUNC1207>
+				</SENSENODECLASS1206>
+			</SENSENODESPACE1205>
+		</SENSENODESPACE1204>
+		<SENSENODESPACE1208 type="space" name="LeafSoft">
+			<SENSENODESPACE1209 type="space" name="Model">
+				<SENSENODECLASS1210 type="class" name="CMD">
+					<SENSENODEFUNC1211 type="function" name="string get_Text()">
+						<flags>8</flags>
+					</SENSENODEFUNC1211>
+				</SENSENODECLASS1210>
+			</SENSENODESPACE1209>
+		</SENSENODESPACE1208>
+		<SENSENODESPACE1212 type="space" name="LeafSoft">
+			<SENSENODESPACE1213 type="space" name="Model">
+				<SENSENODECLASS1214 type="class" name="CMD">
+					<SENSENODEFUNC1215 type="function" name="byte[] get_Bytes()">
+						<flags>8</flags>
+					</SENSENODEFUNC1215>
+				</SENSENODECLASS1214>
+			</SENSENODESPACE1213>
+		</SENSENODESPACE1212>
+		<SENSENODESPACE1216 type="space" name="LeafSoft">
+			<SENSENODESPACE1217 type="space" name="Model">
+				<SENSENODECLASS1218 type="class" name="CMD">
+					<SENSENODEFUNC1219 type="function" name="string get_Tips()">
+						<flags>8</flags>
+					</SENSENODEFUNC1219>
+				</SENSENODECLASS1218>
+			</SENSENODESPACE1217>
+		</SENSENODESPACE1216>
+		<SENSENODESPACE1220 type="space" name="LeafSoft">
+			<SENSENODESPACE1221 type="space" name="Model">
+				<SENSENODECLASS1222 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1223 type="function" name="string get_Name()">
+						<flags>8</flags>
+					</SENSENODEFUNC1223>
+				</SENSENODECLASS1222>
+			</SENSENODESPACE1221>
+		</SENSENODESPACE1220>
+		<SENSENODESPACE1224 type="space" name="LeafSoft">
+			<SENSENODESPACE1225 type="space" name="Model">
+				<SENSENODECLASS1226 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1227 type="function" name="void SetName()">
+						<flags>8</flags>
+					</SENSENODEFUNC1227>
+				</SENSENODECLASS1226>
+			</SENSENODESPACE1225>
+		</SENSENODESPACE1224>
+		<SENSENODESPACE1228 type="space" name="LeafSoft">
+			<SENSENODESPACE1229 type="space" name="Model">
+				<SENSENODECLASS1230 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1231 type="function" name="TcpClient get_NetWork()">
+						<flags>8</flags>
+					</SENSENODEFUNC1231>
+				</SENSENODECLASS1230>
+			</SENSENODESPACE1229>
+		</SENSENODESPACE1228>
+		<SENSENODESPACE1232 type="space" name="LeafSoft">
+			<SENSENODESPACE1233 type="space" name="Model">
+				<SENSENODECLASS1234 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1235 type="function" name="void set_NetWork(TcpClient)">
+						<flags>8</flags>
+					</SENSENODEFUNC1235>
+				</SENSENODECLASS1234>
+			</SENSENODESPACE1233>
+		</SENSENODESPACE1232>
+		<SENSENODESPACE1236 type="space" name="LeafSoft">
+			<SENSENODESPACE1237 type="space" name="Model">
+				<SENSENODECLASS1238 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1239 type="function" name="void DisConnect()">
+						<flags>8</flags>
+					</SENSENODEFUNC1239>
+				</SENSENODECLASS1238>
+			</SENSENODESPACE1237>
+		</SENSENODESPACE1236>
+		<SENSENODESPACE1240 type="space" name="LeafSoft">
+			<SENSENODESPACE1241 type="space" name="Model">
+				<SENSENODECLASS1242 type="class" name="LeafTCPClient">
+					<SENSENODEFUNC1243 type="function" name="void .ctor()">
+						<flags>8</flags>
+					</SENSENODEFUNC1243>
+				</SENSENODECLASS1242>
+			</SENSENODESPACE1241>
+		</SENSENODESPACE1240>
+		<SENSENODESPACE1244 type="space" name="LeafSoft">
+			<SENSENODESPACE1245 type="space" name="Lib">
+				<SENSENODECLASS1246 type="class" name="CmdAdbInfo">
+					<SENSENODEFUNC1247 type="function" name="List`1&lt;string&gt; GetAllADBCmdList()">
+						<flags>8</flags>
+					</SENSENODEFUNC1247>
+				</SENSENODECLASS1246>
+			</SENSENODESPACE1245>
+		</SENSENODESPACE1244>
+		<SENSENODESPACE1248 type="space" name="LeafSoft">
+			<SENSENODESPACE1249 type="space" name="Lib">
+				<SENSENODECLASS1250 type="class" name="CmdHelp">
+					<SENSENODEFUNC1251 type="function" name="void add_EventReceiveData(DelegateReceiveData)">
+						<flags>8</flags>
+					</SENSENODEFUNC1251>
+				</SENSENODECLASS1250>
+			</SENSENODESPACE1249>
+		</SENSENODESPACE1248>
+		<SENSENODESPACE1252 type="space" name="LeafSoft">
+			<SENSENODESPACE1253 type="space" name="Lib">
+				<SENSENODECLASS1254 type="class" name="CmdHelp">
+					<SENSENODEFUNC1255 type="function" name="void remove_EventReceiveData(DelegateReceiveData)">
+						<flags>8</flags>
+					</SENSENODEFUNC1255>
+				</SENSENODECLASS1254>
+			</SENSENODESPACE1253>
+		</SENSENODESPACE1252>
+		<SENSENODESPACE1256 type="space" name="LeafSoft">
+			<SENSENODESPACE1257 type="space" name="Lib">
+				<SENSENODECLASS1258 type="class" name="CmdHelp">
+					<SENSENODEFUNC1259 type="function" name="void add_EventReceiveThreadData(DelegateReceiveThreadData)">
+						<flags>8</flags>
+					</SENSENODEFUNC1259>
+				</SENSENODECLASS1258>
+			</SENSENODESPACE1257>
+		</SENSENODESPACE1256>
+		<SENSENODESPACE1260 type="space" name="LeafSoft">
+			<SENSENODESPACE1261 type="space" name="Lib">
+				<SENSENODECLASS1262 type="class" name="CmdHelp">
+					<SENSENODEFUNC1263 type="function" name="void remove_EventReceiveThreadData(DelegateReceiveThreadData)">
+						<flags>1</flags>
+					</SENSENODEFUNC1263>
+				</SENSENODECLASS1262>
+			</SENSENODESPACE1261>
+		</SENSENODESPACE1260>
+		<SENSENODESPACE1264 type="space" name="LeafSoft">
+			<SENSENODESPACE1265 type="space" name="Lib">
+				<SENSENODECLASS1266 type="class" name="CmdHelp">
+					<SENSENODEFUNC1267 type="function" name="void add_EventReceiveThreadErrorData(DelegateReceiveThreadErrorData)">
+						<flags>8</flags>
+					</SENSENODEFUNC1267>
+				</SENSENODECLASS1266>
+			</SENSENODESPACE1265>
+		</SENSENODESPACE1264>
+		<SENSENODESPACE1268 type="space" name="LeafSoft">
+			<SENSENODESPACE1269 type="space" name="Lib">
+				<SENSENODECLASS1270 type="class" name="CmdHelp">
+					<SENSENODEFUNC1271 type="function" name="void remove_EventReceiveThreadErrorData(DelegateReceiveThreadErrorData)">
+						<flags>1</flags>
+					</SENSENODEFUNC1271>
+				</SENSENODECLASS1270>
+			</SENSENODESPACE1269>
+		</SENSENODESPACE1268>
+		<SENSENODESPACE1272 type="space" name="LeafSoft">
+			<SENSENODESPACE1273 type="space" name="Lib">
+				<SENSENODECLASS1274 type="class" name="CmdHelp">
+					<SENSENODEFUNC1275 type="function" name="void PutResultToUI(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1275>
+				</SENSENODECLASS1274>
+			</SENSENODESPACE1273>
+		</SENSENODESPACE1272>
+		<SENSENODESPACE1276 type="space" name="LeafSoft">
+			<SENSENODESPACE1277 type="space" name="Lib">
+				<SENSENODECLASS1278 type="class" name="CmdHelp">
+					<SENSENODEFUNC1279 type="function" name="void PutResultThreadToUI(string)">
+						<flags>1</flags>
+					</SENSENODEFUNC1279>
+				</SENSENODECLASS1278>
+			</SENSENODESPACE1277>
+		</SENSENODESPACE1276>
+		<SENSENODESPACE1280 type="space" name="LeafSoft">
+			<SENSENODESPACE1281 type="space" name="Lib">
+				<SENSENODECLASS1282 type="class" name="CmdHelp">
+					<SENSENODEFUNC1283 type="function" name="void PutResultThreadErrorToUI(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1283>
+				</SENSENODECLASS1282>
+			</SENSENODESPACE1281>
+		</SENSENODESPACE1280>
+		<SENSENODESPACE1284 type="space" name="LeafSoft">
+			<SENSENODESPACE1285 type="space" name="Lib">
+				<SENSENODECLASS1286 type="class" name="CmdHelp">
+					<SENSENODEFUNC1287 type="function" name="string get_AdbExePath()">
+						<flags>8</flags>
+					</SENSENODEFUNC1287>
+				</SENSENODECLASS1286>
+			</SENSENODESPACE1285>
+		</SENSENODESPACE1284>
+		<SENSENODESPACE1288 type="space" name="LeafSoft">
+			<SENSENODESPACE1289 type="space" name="Lib">
+				<SENSENODECLASS1290 type="class" name="CmdHelp">
+					<SENSENODEFUNC1291 type="function" name="void SendAdbCmd(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1291>
+				</SENSENODECLASS1290>
+			</SENSENODESPACE1289>
+		</SENSENODESPACE1288>
+		<SENSENODESPACE1292 type="space" name="LeafSoft">
+			<SENSENODESPACE1293 type="space" name="Lib">
+				<SENSENODECLASS1294 type="class" name="CmdHelp">
+					<SENSENODEFUNC1295 type="function" name="void SendAdbCmd2(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1295>
+				</SENSENODECLASS1294>
+			</SENSENODESPACE1293>
+		</SENSENODESPACE1292>
+		<SENSENODESPACE1296 type="space" name="LeafSoft">
+			<SENSENODESPACE1297 type="space" name="Lib">
+				<SENSENODECLASS1298 type="class" name="CmdHelp">
+					<SENSENODEFUNC1299 type="function" name="string[] GetDevices(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1299>
+				</SENSENODECLASS1298>
+			</SENSENODESPACE1297>
+		</SENSENODESPACE1296>
+		<SENSENODESPACE1300 type="space" name="LeafSoft">
+			<SENSENODESPACE1301 type="space" name="Lib">
+				<SENSENODECLASS1302 type="class" name="CmdHelp">
+					<SENSENODEFUNC1303 type="function" name="string[] GetAPP(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1303>
+				</SENSENODECLASS1302>
+			</SENSENODESPACE1301>
+		</SENSENODESPACE1300>
+		<SENSENODESPACE1304 type="space" name="LeafSoft">
+			<SENSENODESPACE1305 type="space" name="Lib">
+				<SENSENODECLASS1306 type="class" name="CmdHelp">
+					<SENSENODEFUNC1307 type="function" name="void APPUninstall(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1307>
+				</SENSENODECLASS1306>
+			</SENSENODESPACE1305>
+		</SENSENODESPACE1304>
+		<SENSENODESPACE1308 type="space" name="LeafSoft">
+			<SENSENODESPACE1309 type="space" name="Lib">
+				<SENSENODECLASS1310 type="class" name="CmdHelp">
+					<SENSENODEFUNC1311 type="function" name="string GetDeviceProp(string,string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1311>
+				</SENSENODECLASS1310>
+			</SENSENODESPACE1309>
+		</SENSENODESPACE1308>
+		<SENSENODESPACE1312 type="space" name="LeafSoft">
+			<SENSENODESPACE1313 type="space" name="Lib">
+				<SENSENODECLASS1314 type="class" name="CmdHelp">
+					<SENSENODEFUNC1315 type="function" name="string GetDeviceModel(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1315>
+				</SENSENODECLASS1314>
+			</SENSENODESPACE1313>
+		</SENSENODESPACE1312>
+		<SENSENODESPACE1316 type="space" name="LeafSoft">
+			<SENSENODESPACE1317 type="space" name="Lib">
+				<SENSENODECLASS1318 type="class" name="CmdHelp">
+					<SENSENODEFUNC1319 type="function" name="string GetDeviceBrand(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1319>
+				</SENSENODECLASS1318>
+			</SENSENODESPACE1317>
+		</SENSENODESPACE1316>
+		<SENSENODESPACE1320 type="space" name="LeafSoft">
+			<SENSENODESPACE1321 type="space" name="Lib">
+				<SENSENODECLASS1322 type="class" name="CmdHelp">
+					<SENSENODEFUNC1323 type="function" name="string GetDeviceFingerprint(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1323>
+				</SENSENODECLASS1322>
+			</SENSENODESPACE1321>
+		</SENSENODESPACE1320>
+		<SENSENODESPACE1324 type="space" name="LeafSoft">
+			<SENSENODESPACE1325 type="space" name="Lib">
+				<SENSENODECLASS1326 type="class" name="CmdHelp">
+					<SENSENODEFUNC1327 type="function" name="string GetDeviceVersionRelease(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1327>
+				</SENSENODECLASS1326>
+			</SENSENODESPACE1325>
+		</SENSENODESPACE1324>
+		<SENSENODESPACE1328 type="space" name="LeafSoft">
+			<SENSENODESPACE1329 type="space" name="Lib">
+				<SENSENODECLASS1330 type="class" name="CmdHelp">
+					<SENSENODEFUNC1331 type="function" name="string GetDeviceVersionSdk(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1331>
+				</SENSENODECLASS1330>
+			</SENSENODESPACE1329>
+		</SENSENODESPACE1328>
+		<SENSENODESPACE1332 type="space" name="LeafSoft">
+			<SENSENODESPACE1333 type="space" name="Lib">
+				<SENSENODECLASS1334 type="class" name="CmdProcessHelper">
+					<SENSENODEFUNC1335 type="function" name="void AysnRun(string,string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1335>
+				</SENSENODECLASS1334>
+			</SENSENODESPACE1333>
+		</SENSENODESPACE1332>
+		<SENSENODESPACE1336 type="space" name="LeafSoft">
+			<SENSENODESPACE1337 type="space" name="Lib">
+				<SENSENODECLASS1338 type="class" name="CmdProcessHelper">
+					<SENSENODEFUNC1339 type="function" name="void p_OutputDataReceived(object,DataReceivedEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1339>
+				</SENSENODECLASS1338>
+			</SENSENODESPACE1337>
+		</SENSENODESPACE1336>
+		<SENSENODESPACE1340 type="space" name="LeafSoft">
+			<SENSENODESPACE1341 type="space" name="Lib">
+				<SENSENODECLASS1342 type="class" name="CmdProcessHelper">
+					<SENSENODEFUNC1343 type="function" name="void p_ErrorDataReceived(object,DataReceivedEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1343>
+				</SENSENODECLASS1342>
+			</SENSENODESPACE1341>
+		</SENSENODESPACE1340>
+		<SENSENODESPACE1344 type="space" name="LeafSoft">
+			<SENSENODESPACE1345 type="space" name="Lib">
+				<SENSENODECLASS1346 type="class" name="CmdProcessHelper">
+					<SENSENODEFUNC1347 type="function" name="void Run(string,string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1347>
+				</SENSENODECLASS1346>
+			</SENSENODESPACE1345>
+		</SENSENODESPACE1344>
+		<SENSENODESPACE1348 type="space" name="LeafSoft">
+			<SENSENODESPACE1349 type="space" name="Lib">
+				<SENSENODECLASS1350 type="class" name="BytesCheck">
+					<SENSENODEFUNC1351 type="function" name="byte GetXOR(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1351>
+				</SENSENODECLASS1350>
+			</SENSENODESPACE1349>
+		</SENSENODESPACE1348>
+		<SENSENODESPACE1352 type="space" name="LeafSoft">
+			<SENSENODESPACE1353 type="space" name="Lib">
+				<SENSENODECLASS1354 type="class" name="BytesCheck">
+					<SENSENODEFUNC1355 type="function" name="byte[] GetXORFull(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1355>
+				</SENSENODECLASS1354>
+			</SENSENODESPACE1353>
+		</SENSENODESPACE1352>
+		<SENSENODESPACE1356 type="space" name="LeafSoft">
+			<SENSENODESPACE1357 type="space" name="Lib">
+				<SENSENODECLASS1358 type="class" name="BytesCheck">
+					<SENSENODEFUNC1359 type="function" name="byte GetKTC(byte[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1359>
+				</SENSENODECLASS1358>
+			</SENSENODESPACE1357>
+		</SENSENODESPACE1356>
+		<SENSENODESPACE1360 type="space" name="LeafSoft">
+			<SENSENODESPACE1361 type="space" name="Lib">
+				<SENSENODECLASS1362 type="class" name="BytesCheck">
+					<SENSENODEFUNC1363 type="function" name="byte[] GetCRC16(byte[],bool)">
+						<flags>8</flags>
+					</SENSENODEFUNC1363>
+				</SENSENODECLASS1362>
+			</SENSENODESPACE1361>
+		</SENSENODESPACE1360>
+		<SENSENODESPACE1364 type="space" name="LeafSoft">
+			<SENSENODESPACE1365 type="space" name="Lib">
+				<SENSENODECLASS1366 type="class" name="BytesCheck">
+					<SENSENODEFUNC1367 type="function" name="byte[] GetCRC16Full(byte[],bool)">
+						<flags>8</flags>
+					</SENSENODEFUNC1367>
+				</SENSENODECLASS1366>
+			</SENSENODESPACE1365>
+		</SENSENODESPACE1364>
+		<SENSENODESPACE1368 type="space" name="LeafSoft">
+			<SENSENODESPACE1369 type="space" name="Lib">
+				<SENSENODECLASS1370 type="class" name="BytesCheck">
+					<SENSENODEFUNC1371 type="function" name="byte[] GetCRC16ByPoly(byte[],ushort,bool)">
+						<flags>8</flags>
+					</SENSENODEFUNC1371>
+				</SENSENODECLASS1370>
+			</SENSENODESPACE1369>
+		</SENSENODESPACE1368>
+		<SENSENODESPACE1372 type="space" name="LeafSoft">
+			<SENSENODESPACE1373 type="space" name="Lib">
+				<SENSENODECLASS1374 type="class" name="BytesCheck">
+					<SENSENODEFUNC1375 type="function" name="byte[] GetCRC16ByPolyFull(byte[],ushort,bool)">
+						<flags>8</flags>
+					</SENSENODEFUNC1375>
+				</SENSENODECLASS1374>
+			</SENSENODESPACE1373>
+		</SENSENODESPACE1372>
+		<SENSENODESPACE1376 type="space" name="LeafSoft">
+			<SENSENODESPACE1377 type="space" name="Lib">
+				<SENSENODECLASS1378 type="class" name="GetMac">
+					<SENSENODEFUNC1379 type="function" name="string get_MAC()">
+						<flags>8</flags>
+					</SENSENODEFUNC1379>
+				</SENSENODECLASS1378>
+			</SENSENODESPACE1377>
+		</SENSENODESPACE1376>
+		<SENSENODESPACE1380 type="space" name="LeafSoft">
+			<SENSENODESPACE1381 type="space" name="Lib">
+				<SENSENODECLASS1382 type="class" name="GetMac">
+					<SENSENODEFUNC1383 type="function" name="string get_NAME()">
+						<flags>8</flags>
+					</SENSENODEFUNC1383>
+				</SENSENODECLASS1382>
+			</SENSENODESPACE1381>
+		</SENSENODESPACE1380>
+		<SENSENODESPACE1384 type="space" name="LeafSoft">
+			<SENSENODESPACE1385 type="space" name="Lib">
+				<SENSENODECLASS1386 type="class" name="GetMac">
+					<SENSENODEFUNC1387 type="function" name="string get_IP()">
+						<flags>8</flags>
+					</SENSENODEFUNC1387>
+				</SENSENODECLASS1386>
+			</SENSENODESPACE1385>
+		</SENSENODESPACE1384>
+		<SENSENODESPACE1388 type="space" name="LeafSoft">
+			<SENSENODESPACE1389 type="space" name="Lib">
+				<SENSENODECLASS1390 type="class" name="IniFiles">
+					<SENSENODEFUNC1391 type="function" name="void EraseSection(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1391>
+				</SENSENODECLASS1390>
+			</SENSENODESPACE1389>
+		</SENSENODESPACE1388>
+		<SENSENODESPACE1392 type="space" name="LeafSoft">
+			<SENSENODESPACE1393 type="space" name="Lib">
+				<SENSENODECLASS1394 type="class" name="IniFiles">
+					<SENSENODEFUNC1395 type="function" name="void UpdateFile()">
+						<flags>8</flags>
+					</SENSENODEFUNC1395>
+				</SENSENODECLASS1394>
+			</SENSENODESPACE1393>
+		</SENSENODESPACE1392>
+		<SENSENODESPACE1396 type="space" name="LeafSoft">
+			<SENSENODESPACE1397 type="space" name="Lib">
+				<SENSENODECLASS1398 type="class" name="IniFiles">
+					<SENSENODEFUNC1399 type="function" name="void Finalize()">
+						<flags>8</flags>
+					</SENSENODEFUNC1399>
+				</SENSENODECLASS1398>
+			</SENSENODESPACE1397>
+		</SENSENODESPACE1396>
+		<SENSENODESPACE1400 type="space" name="LeafSoft">
+			<SENSENODESPACE1401 type="space" name="Lib">
+				<SENSENODECLASS1402 type="class" name="ProcessHelper">
+					<SENSENODEFUNC1403 type="function" name="Process GetProcess()">
+						<flags>8</flags>
+					</SENSENODEFUNC1403>
+				</SENSENODECLASS1402>
+			</SENSENODESPACE1401>
+		</SENSENODESPACE1400>
+		<SENSENODESPACE1404 type="space" name="LeafSoft">
+			<SENSENODESPACE1405 type="space" name="Lib">
+				<SENSENODECLASS1406 type="class" name="ProcessHelper">
+					<SENSENODEFUNC1407 type="function" name="string ReadStandardOutputLine(Process)">
+						<flags>8</flags>
+					</SENSENODEFUNC1407>
+				</SENSENODECLASS1406>
+			</SENSENODESPACE1405>
+		</SENSENODESPACE1404>
+		<SENSENODESPACE1408 type="space" name="LeafSoft">
+			<SENSENODESPACE1409 type="space" name="Lib">
+				<SENSENODECLASS1410 type="class" name="ProcessHelper">
+					<SENSENODEFUNC1411 type="function" name="RunResult RunAsContinueMode(string,string,string[])">
+						<flags>8</flags>
+					</SENSENODEFUNC1411>
+				</SENSENODECLASS1410>
+			</SENSENODESPACE1409>
+		</SENSENODESPACE1408>
+		<SENSENODESPACE1412 type="space" name="LeafSoft">
+			<SENSENODESPACE1413 type="space" name="Lib">
+				<SENSENODECLASS1414 type="class" name="ProcessHelper">
+					<SENSENODEFUNC1415 type="function" name="RunResult Run(string,string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1415>
+				</SENSENODECLASS1414>
+			</SENSENODESPACE1413>
+		</SENSENODESPACE1412>
+		<SENSENODESPACE1416 type="space" name="LeafSoft">
+			<SENSENODESPACE1417 type="space" name="Lib">
+				<SENSENODECLASS1418 type="class" name="ProcessHelper">
+					<SENSENODECLASS1419 type="class" name="RunResult">
+						<SENSENODEFUNC1420 type="function" name="string ToString()">
+							<flags>8</flags>
+						</SENSENODEFUNC1420>
+					</SENSENODECLASS1419>
+				</SENSENODECLASS1418>
+			</SENSENODESPACE1417>
+		</SENSENODESPACE1416>
+		<SENSENODESPACE1421 type="space" name="LeafSoft">
+			<SENSENODESPACE1422 type="space" name="Lib">
+				<SENSENODECLASS1423 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1424 type="function" name="void add_RecPacket(PacketReceived)">
+						<flags>8</flags>
+					</SENSENODEFUNC1424>
+				</SENSENODECLASS1423>
+			</SENSENODESPACE1422>
+		</SENSENODESPACE1421>
+		<SENSENODESPACE1425 type="space" name="LeafSoft">
+			<SENSENODESPACE1426 type="space" name="Lib">
+				<SENSENODECLASS1427 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1428 type="function" name="void remove_RecPacket(PacketReceived)">
+						<flags>8</flags>
+					</SENSENODEFUNC1428>
+				</SENSENODECLASS1427>
+			</SENSENODESPACE1426>
+		</SENSENODESPACE1425>
+		<SENSENODESPACE1429 type="space" name="LeafSoft">
+			<SENSENODESPACE1430 type="space" name="Lib">
+				<SENSENODECLASS1431 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1432 type="function" name="bool Start(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1432>
+				</SENSENODECLASS1431>
+			</SENSENODESPACE1430>
+		</SENSENODESPACE1429>
+		<SENSENODESPACE1433 type="space" name="LeafSoft">
+			<SENSENODESPACE1434 type="space" name="Lib">
+				<SENSENODECLASS1435 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1436 type="function" name="void Stop()">
+						<flags>8</flags>
+					</SENSENODEFUNC1436>
+				</SENSENODECLASS1435>
+			</SENSENODESPACE1434>
+		</SENSENODESPACE1433>
+		<SENSENODESPACE1437 type="space" name="LeafSoft">
+			<SENSENODESPACE1438 type="space" name="Lib">
+				<SENSENODECLASS1439 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1440 type="function" name="void Recevice()">
+						<flags>8</flags>
+					</SENSENODEFUNC1440>
+				</SENSENODECLASS1439>
+			</SENSENODESPACE1438>
+		</SENSENODESPACE1437>
+		<SENSENODESPACE1441 type="space" name="LeafSoft">
+			<SENSENODESPACE1442 type="space" name="Lib">
+				<SENSENODECLASS1443 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1444 type="function" name="bool SetSocketOption()">
+						<flags>8</flags>
+					</SENSENODEFUNC1444>
+				</SENSENODECLASS1443>
+			</SENSENODESPACE1442>
+		</SENSENODESPACE1441>
+		<SENSENODESPACE1445 type="space" name="LeafSoft">
+			<SENSENODESPACE1446 type="space" name="Lib">
+				<SENSENODECLASS1447 type="class" name="SnifferSocket">
+					<SENSENODEFUNC1448 type="function" name="void CallReceive(IAsyncResult)">
+						<flags>8</flags>
+					</SENSENODEFUNC1448>
+				</SENSENODECLASS1447>
+			</SENSENODESPACE1446>
+		</SENSENODESPACE1445>
+		<SENSENODESPACE1449 type="space" name="LeafSoft">
+			<SENSENODESPACE1450 type="space" name="LeafControl">
+				<SENSENODECLASS1451 type="class" name="CMDTextBox">
+					<SENSENODEFUNC1452 type="function" name="void add_DataSend(DataSendHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC1452>
+				</SENSENODECLASS1451>
+			</SENSENODESPACE1450>
+		</SENSENODESPACE1449>
+		<SENSENODESPACE1453 type="space" name="LeafSoft">
+			<SENSENODESPACE1454 type="space" name="LeafControl">
+				<SENSENODECLASS1455 type="class" name="CMDTextBox">
+					<SENSENODEFUNC1456 type="function" name="void remove_DataSend(DataSendHandler)">
+						<flags>8</flags>
+					</SENSENODEFUNC1456>
+				</SENSENODECLASS1455>
+			</SENSENODESPACE1454>
+		</SENSENODESPACE1453>
+		<SENSENODESPACE1457 type="space" name="LeafSoft">
+			<SENSENODESPACE1458 type="space" name="LeafControl">
+				<SENSENODECLASS1459 type="class" name="CMDTextBox">
+					<SENSENODEFUNC1460 type="function" name="void .ctor()">
+						<flags>8</flags>
+					</SENSENODEFUNC1460>
+				</SENSENODECLASS1459>
+			</SENSENODESPACE1458>
+		</SENSENODESPACE1457>
+		<SENSENODESPACE1461 type="space" name="LeafSoft">
+			<SENSENODESPACE1462 type="space" name="LeafControl">
+				<SENSENODECLASS1463 type="class" name="CMDTextBox">
+					<SENSENODEFUNC1464 type="function" name="void OnKeyPress(KeyPressEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1464>
+				</SENSENODECLASS1463>
+			</SENSENODESPACE1462>
+		</SENSENODESPACE1461>
+		<SENSENODESPACE1465 type="space" name="LeafSoft">
+			<SENSENODESPACE1466 type="space" name="LeafControl">
+				<SENSENODECLASS1467 type="class" name="MACTextBox">
+					<SENSENODEFUNC1468 type="function" name="void set_Text(string)">
+						<flags>8</flags>
+					</SENSENODEFUNC1468>
+				</SENSENODECLASS1467>
+			</SENSENODESPACE1466>
+		</SENSENODESPACE1465>
+		<SENSENODESPACE1469 type="space" name="LeafSoft">
+			<SENSENODESPACE1470 type="space" name="LeafControl">
+				<SENSENODECLASS1471 type="class" name="MACTextBox">
+					<SENSENODEFUNC1472 type="function" name="void Clear()">
+						<flags>8</flags>
+					</SENSENODEFUNC1472>
+				</SENSENODECLASS1471>
+			</SENSENODESPACE1470>
+		</SENSENODESPACE1469>
+		<SENSENODESPACE1473 type="space" name="LeafSoft">
+			<SENSENODESPACE1474 type="space" name="LeafControl">
+				<SENSENODECLASS1475 type="class" name="MACTextBox">
+					<SENSENODEFUNC1476 type="function" name="void InitializeComponent()">
+						<flags>8</flags>
+					</SENSENODEFUNC1476>
+				</SENSENODECLASS1475>
+			</SENSENODESPACE1474>
+		</SENSENODESPACE1473>
+		<SENSENODESPACE1477 type="space" name="LeafSoft">
+			<SENSENODESPACE1478 type="space" name="LeafControl">
+				<SENSENODECLASS1479 type="class" name="BytesBox">
+					<SENSENODEFUNC1480 type="function" name="DataEncode get_EncodeType()">
+						<flags>8</flags>
+					</SENSENODEFUNC1480>
+				</SENSENODECLASS1479>
+			</SENSENODESPACE1478>
+		</SENSENODESPACE1477>
+		<SENSENODESPACE1481 type="space" name="LeafSoft">
+			<SENSENODESPACE1482 type="space" name="LeafControl">
+				<SENSENODECLASS1483 type="class" name="BytesBox">
+					<SENSENODEFUNC1484 type="function" name="void OnTextChanged(EventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1484>
+				</SENSENODECLASS1483>
+			</SENSENODESPACE1482>
+		</SENSENODESPACE1481>
+		<SENSENODESPACE1485 type="space" name="LeafSoft">
+			<SENSENODESPACE1486 type="space" name="LeafControl">
+				<SENSENODECLASS1487 type="class" name="BytesBox">
+					<SENSENODEFUNC1488 type="function" name="void OnKeyPress(KeyPressEventArgs)">
+						<flags>8</flags>
+					</SENSENODEFUNC1488>
+				</SENSENODECLASS1487>
+			</SENSENODESPACE1486>
+		</SENSENODESPACE1485>
+		<SENSENODESPACE1489 type="space" name="LeafSoft">
+			<SENSENODESPACE1490 type="space" name="LeafControl">
+				<SENSENODECLASS1491 type="class" name="BytesBox">
+					<SENSENODEFUNC1492 type="function" name="CMD GetCMD()">
+						<flags>8</flags>
+					</SENSENODEFUNC1492>
+				</SENSENODECLASS1491>
+			</SENSENODESPACE1490>
+		</SENSENODESPACE1489>
+		<SENSENODESPACE1493 type="space" name="LeafSoft">
+			<SENSENODESPACE1494 type="space" name="LeafControl">
+				<SENSENODECLASS1495 type="class" name="BytesBox">
+					<SENSENODEFUNC1496 type="function" name="void SetCMD(CMD)">
+						<flags>8</flags>
+					</SENSENODEFUNC1496>
+				</SENSENODECLASS1495>
+			</SENSENODESPACE1494>
+		</SENSENODESPACE1493>
+	</function>
+</ssprotect>
