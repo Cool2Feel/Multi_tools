@@ -1,6 +1,6 @@
 <b>软件名称：通信调试工具</b><br/>
 最新版本:1.0<br/>
-GIT开源项目地址：https://code.csdn.net/yeqi3000/supernetdebuger<br/>
+GIT开源项目地址：https://github.com/Cool2Feel/Multi_tools/edit/master/supernetdebuger<br/>
 C#通信编程交流群：83868794<br/>
 
 <b>功能概要：</b><br/>
@@ -11,10 +11,11 @@ C#通信编程交流群：83868794<br/>
 5.串口超级终端<br/>
 6.Socket通信监视器<br/>
 7:Ping调试<br/>
+8:ADB调试<br/>
 
 <b>历史更新记录：</b><br/>
 版本：1.0<br/>
-发布时间：2013年9月16日<br/>
+发布时间：2019年8月16日<br/>
 
 <b>计划更新：</b><br/>
 1.支持SQLITE数据库，能保存调试命令及最后使用的通信参数信息等<br/>
@@ -27,7 +28,6 @@ C#通信编程交流群：83868794<br/>
 
 <b>版权声明:</b><br/>
 C#超级通信调试工具遵循Apache2开源协议发布，并提供免费使用。<br/>
-版权所有：Maximus Ye(http://www.yyzq.net)<br/>
 Apache Licence是著名的非盈利开源组织Apache采用的协议。<br/>
 该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，允许代码修改，再作为开源或商业软件发布。<br/>
 需要满足的条件：<br/>
