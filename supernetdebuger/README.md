@@ -1,7 +1,6 @@
 <b>软件名称：通信调试工具</b><br/>
 最新版本:1.0<br/>
 GIT开源项目地址：https://github.com/Cool2Feel/Multi_tools/edit/master/supernetdebuger<br/>
-C#通信编程交流群：83868794<br/>
 
 <b>功能概要：</b><br/>
 1.串口，TCP服务端/客户端，UDP服务端/客户端通讯调试<br/>
